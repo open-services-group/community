@@ -1,0 +1,84 @@
+orgs:
+  AICoE:
+    admins:
+      - durandom
+      - goern
+      - sesheta
+    billing_email: mhild@redhat.com
+    company: "Red Hat, Inc."
+    default_repository_permission: read
+    description: The Open Services Group of Red Hat‘s Emerging Technologies.
+    email: ""
+    has_organization_projects: true
+    has_repository_projects: true
+    location: Earth (any shape)
+    members:
+      - 4n4nd
+      - aakankshaduggal
+      - chauhankaranraj
+      - codificat
+      - erikerlandson
+      - fridex
+      - Gkrumbach07
+      - harshad16
+      - hemajv
+      - HumairAK
+      - KPostOffice
+      - lucaburatti7
+      - lucferbux
+      - lukehinds
+      - maroroman
+      - mayaCostantini
+      - MichaelClifford
+      - mimotej
+      - oindrillac
+      - pacospace
+      - schwesig
+      - Shreyanand
+      - sub-mod
+      - suppathak
+      - xtuchyna
+    members_can_create_repositories: false
+    name: Open Services Group
+    repos:
+      common:
+        default_branch: main
+        description:
+          This repository handles a few common things, it is mainly used
+          by our bots...
+        has_projects: false
+        has_wiki: false
+    teams:
+      AIOps:
+        description: ""
+        maintainers:
+          - durandom
+        members:
+          - MichaelClifford
+          - hemajv
+          - tumido
+          - Shreyanand
+          - HumairAK
+          - chauhankaranraj
+          - 4n4nd
+        privacy: closed
+        repos:
+      DevOps:
+        description: The DevOps Crew
+        maintainers:
+          - goern
+          - harshad16
+        members:
+          - 4n4nd
+        privacy: closed
+        repos:
+      SourceOps:
+        description: This is our SourceOps team, they keep the source fresh.
+        maintainers:
+          - goern
+          - harshad16
+          - sesheta
+        members:
+        privacy: closed
+        repos:
+          community: admin
