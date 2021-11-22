@@ -1,10 +1,10 @@
 orgs:
-  AICoE:
+  open-services-group:
     admins:
       - durandom
       - goern
       - sesheta
-    billing_email: mhild@redhat.com
+    billing_email: goern@redhat.com
     company: "Red Hat, Inc."
     default_repository_permission: read
     description: The Open Services Group of Red Hat‘s Emerging Technologies.
@@ -37,6 +37,7 @@ orgs:
       - Shreyanand
       - sub-mod
       - suppathak
+      - tumido
       - xtuchyna
     members_can_create_repositories: false
     name: Open Services Group
