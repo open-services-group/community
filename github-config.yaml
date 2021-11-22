@@ -24,9 +24,6 @@ orgs:
       - hemajv
       - HumairAK
       - KPostOffice
-      - lucaburatti7
-      - lucferbux
-      - lukehinds
       - maroroman
       - mayaCostantini
       - MichaelClifford
@@ -42,7 +39,7 @@ orgs:
     members_can_create_repositories: false
     name: Open Services Group
     repos:
-      common:
+      community:
         default_branch: main
         description:
           This repository handles a few common things, it is mainly used
