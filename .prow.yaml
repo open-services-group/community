@@ -3,7 +3,7 @@ presubmits:
     decorate: true
     skip_report: false
     always_run: true
-    context: aicoe-ci/prow/pre-commit
+    context: open-services-group/prow/pre-commit
     spec:
       containers:
         - image: quay.io/thoth-station/thoth-precommit-py38:v0.13.0
@@ -15,7 +15,7 @@ presubmits:
     decorate: true
     run_if_changed: github-config.yaml
     skip_report: false
-    context: community-management/prow/peribolos
+    context: open-services-group/prow/peribolos
     spec:
       containers:
         - image: gcr.io/k8s-prow/peribolos:latest
@@ -50,7 +50,7 @@ presubmits:
     decorate: true
     run_if_changed: labels.yaml
     skip_report: false
-    context: community-management/prow/labels
+    context: open-services-group/prow/labels
     spec:
       containers:
         - image: gcr.io/k8s-prow/label_sync:latest
@@ -75,11 +75,11 @@ presubmits:
             secretName: oauth-token
 
 postsubmits:
-  - name: aicoe-peribolos
+  - name: peribolos
     decorate: true
     run_if_changed: ^github-config\.yaml$
     skip_report: false
-    context: community-management/prow/peribolos
+    context: open-services-group/prow/peribolos
     branches:
       - ^main$
     spec:
@@ -113,11 +113,11 @@ postsubmits:
         - name: github-oauth
           secret:
             secretName: oauth-token
-  - name: aicoe-labels
+  - name: labels
     decorate: true
     run_if_changed: ^(github-config|labels)\.yaml$
     skip_report: false
-    context: community-management/prow/labels
+    context: open-services-group/prow/labels
     branches:
       - ^main$
     spec:
