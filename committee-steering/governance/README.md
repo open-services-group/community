@@ -8,7 +8,7 @@ All SIGs must define a charter defining the scope and governance of the SIG.
 
 ## Steps to create a SIG charter
 
-1. Copy [the template][Short Template] into a new file under community/sig-*YOURSIG*/charter.md ([sig-architecture example])
+1. Copy [the template][Short Template] into a new file under sig/sig-*YOURSIG*/charter.md ([sig-architecture example])
 2. Read the [Recommendations and requirements] so you have context for the template
 3. Fill out the template for your SIG
 4. Update [sigs.yaml] with the individuals holding the roles as defined in the template.
@@ -56,8 +56,8 @@ The primary goal of the charters is to define the scope of the SIG and how the S
 these areas by taking care of their responsibilities. A majority of the effort should be spent on these concerns.
 
 [OARP]: https://stumblingabout.com/tag/oarp/
-[Recommendations and requirements]: sig-governance-requirements.md
-[sig-governance]: sig-governance.md
-[Short Template]: sig-charter-template.md
-[sigs.yaml]: https://github.com/open-services-group/community/blob/main/sigs.yaml
-[sig-architecture example]: https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md
+[Recommendations and requirements]: /sig/sig-governance-requirements.md
+[sig-governance]: /sig/sig-governance.md
+[Short Template]: /sig/sig-charter-template.md
+[sigs.yaml]: /sigs.yaml
+[sig-architecture example]: /sig/charter.md

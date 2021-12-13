@@ -2,15 +2,15 @@ This is a Work in Progress, documenting approximately how we have been operating
 
 # Principles
 
-The Kubernetes community adheres to the following principles:
-* Open: Kubernetes is open source. See repository guidelines and CLA, below.
+The Open Services Group community adheres to the following principles (inspired by [Kubernetes Community][KubCom]):
+* Open: Open Services Group is open source. See repository guidelines and CLA, below.
 * Welcoming and respectful: See Code of Conduct, below.
 * Transparent and accessible: Work and collaboration should be done in public. See SIG governance, below.
 * Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, [scope], and [design principles].
 
 # Code of Conduct
 
-The Kubernetes community abides by the [Kubernetes code of conduct]. Here is an excerpt:
+The Open Services Group community abides by the [Open Services Group code of conduct]. Here is an excerpt:
 
 _As contributors and maintainers of this project, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities._
 
@@ -36,7 +36,7 @@ The project is comprised of the following types of subgroups:
 * Committees
 * User Groups
 
-![Kubernetes Governance Diagram](kubernetes_governance_diagram.png)
+![Kubernetes Governance Diagram](https://github.com/kubernetes/community/blob/master/kubernetes_governance_diagram.png)
 
 ## SIGs
 
@@ -212,7 +212,7 @@ All contributors must sign the CNCF CLA, as described [here](CLA.md).
 [sigs.yaml]: /sigs.yaml
 [SIG Lifecycle]: /sig-wg-lifecycle.md
 [We have them!]: /values.md
-[Kubernetes code of conduct]: /code-of-conduct.md
+
 [design principles]: /contributors/design-proposals/architecture/principles.md
 [scope]: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 [community members]: /community-membership.md
@@ -226,3 +226,13 @@ All contributors must sign the CNCF CLA, as described [here](CLA.md).
 [Annual Report]: /committee-steering/governance/annual-reports.md
 [monthly community meeting]: /events/community-meeting.md
 [KEP process]: https://github.com/kubernetes/enhancements/tree/master/keps#kubernetes-enhancement-proposals-keps
+
+
+<!-- new -->
+
+[KubCom]: https://github.com/kubernetes/community/blob/master/governance.md
+[Open Services Group code of conduct]: /code-of-conduct.md
+
+<!-- replaced/delete? -->
+
+[Kubernetes code of conduct]: /code-of-conduct.md

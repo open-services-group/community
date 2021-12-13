@@ -34,11 +34,19 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
+|[Product Management]|-------|--------|---------|----------|
+|[Velocity]|-------|--------|---------|----------|
+|[Observability]|-------|--------|---------|----------|
+|[DevSecOps]|-------|--------|---------|----------|
+|[Reproducibility]|-------|--------|---------|----------|
+|[User Experience]|-------|--------|---------|----------|
 
 ### Working Groups
 
 | Name | Stakeholder SIGs |Organizers | Contact | Meetings |
 |------|------------------|-----------|---------|----------|
+|[BYON Build Pipelines]|------------------|-----------|---------|----------|
+|[ODH DevSecOps]|------------------|-----------|---------|----------|
 
 ### Committees
 
@@ -48,3 +56,14 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
+
+
+[Product Management]: /sig/sig-productManagement
+[Velocity]: /sig/sig-velocity
+[Observability]: /sig/sig-observability
+[DevSecOps]: /sig/sig-devSecOps
+[Reproducibility]: /sig/sig-reproducibility
+[User Experience]: /sig/sig-userExperience
+
+[BYON Build Pipelines]: /wg/wg-byonBuildPipelines
+[ODH DevSecOps]: /wg/wg-odhDevSecOps

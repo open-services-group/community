@@ -9,7 +9,7 @@ The goal of this working group is to create a service that implements the Bring 
 * Define the Interaction with BYON service
 * Gather and define requirements from user stories
 * Designing an architecture and implementation plan
-* Ensure testability of the service and assets 
+* Ensure testability of the service and assets
 * Ensure versioning and portability of the service
 * Document the release strategy
 
