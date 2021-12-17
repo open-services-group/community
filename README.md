@@ -12,7 +12,7 @@ The way how we organise our community and work is heavily inspired by the Kubern
 
 Open Services Group has the following types of groups that are officially supported:
 
-* **Steering Committee** are named people that are chartered to take on sensitive topics.
+* **[Steering Committee](/committee-steering/README.md)** are named people that are chartered to take on sensitive topics.
   This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed.
 * **Special Interest Groups (SIGs)** are persistent open groups that focus on a part of the project.
   SIGs must have open and transparent proceedings.
