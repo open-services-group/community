@@ -80,3 +80,12 @@ orgs:
         privacy: closed
         repos:
           community: admin
+      Steering:
+        description: The Open Services Group steering committee
+        maintainers:
+          - durandom
+          - goern
+        members:
+        privacy: closed
+        repos:
+          community: admin
