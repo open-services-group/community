@@ -1,5 +1,32 @@
 sigs: []
-workinggroups: []
+workinggroups:
+- dir: wg-byon-build-pipelines
+  name: BYON build pipelines
+  mission_statement: >
+    The goal of this working group is to create a service
+    that implements the Bring Your Own Notebook (BYON) MVP
+    in the context of Open Data Hub (ODH).
+
+  charter_link: charter.md
+  stakeholder_sigs:
+  - Product Management
+  - Reproducibility
+  label: byon-build-pipelines
+  leadership:
+    chairs:
+    - github: tmckayus
+      name: Trevor McKay
+      company: Red Hat
+    - github: pacospace
+      name: Francesco Murdaca
+      company: Red Hat
+  meetings:
+  - description: Regular WG Meeting
+    day: Wednesday
+    time: "10:00"
+    tz: ET (East Time)
+    frequency: weekly
+    url: meet.google.com/qkt-yacp-wzm
 usergroups: []
 committees:
 - dir: committee-steering
