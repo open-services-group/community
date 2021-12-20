@@ -1,0 +1,29 @@
+sigs: []
+workinggroups: []
+usergroups: []
+committees:
+- dir: committee-steering
+  name: Steering
+  mission_statement: >
+    The Steering Committee is the governing body of the Open Services Group, The Steering
+    Committee defines the project values and structure.
+
+  label: steering
+  leadership:
+    chairs:
+    - github: durandom
+      name: Marcel Hild
+      company: Red Hat
+    - github: goern
+      name: Christoph Görn
+      company: Red Hat
+  meetings:
+  - description: Private Steering Committee Meeting
+    day: every Tuesday
+    time: "12:30"
+    tz: UTC
+    frequency: weekly
+  contact:
+    teams:
+    - name: steering-committee
+      description: General Discussion
