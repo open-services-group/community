@@ -2,6 +2,9 @@ aliases:
   wg-byon-build-pipelines-leads:
     - pacospace
     - tmckayus
+  wg-devsecops-leads:
+    - HumairAK
+    - harshad16
   committee-steering:
     - durandom
     - goern
