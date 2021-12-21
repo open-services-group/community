@@ -18,7 +18,7 @@ Open Services Group has the following types of groups that are officially suppor
   SIGs must have open and transparent proceedings.
   Anyone is welcome to participate and contribute provided they follow the [Code of Conduct](CODE_OF_CONDUCT.md).
   The purpose of a SIG is to own and develop a set of **[Subprojects](/sub-projects.md)**.
-  * **[Subprojects](/sub-projects.md)**: Each SIG can have a set of subprojects.
+  * **Subprojects**: Each SIG can have a set of subprojects.
     These are smaller groups that can work independently.
 * **[Working Groups]** are temporary groups that are formed to address issues that cross SIG boundaries.
   Working groups do not own any code or other long term artifacts.
@@ -49,8 +49,7 @@ We encourage all contributors to become members. We aim to grow an active, healt
 
 [Kubernetes Community]: https://github.com/kubernetes/community
 [Steering Committee]: /committee-steering
-
+[Working Groups]: /sig-list.md#working-groups
 [file an issue]: /CONTRIBUTING.md#reporting-bugs
 [find something to work on]: https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to
 [open a pull request]: /CONTRIBUTING.md#requirements-for-pull-requests-pr
-[Working Groups]: /sig-list.md#working-groups
