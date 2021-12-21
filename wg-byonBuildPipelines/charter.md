@@ -19,14 +19,13 @@ Potential design topics include, but are not limited to the following:
 * UI behaviour
 * Dependency discovery and resolution
 
-
 ### Out of Scope
 
 * Design discussions not related to BYON build pipelines
 * Work that is related to company-specific topics
 
-
 ## Deliverables
+
 The artifacts the group is supposed to deliver include:
 
 * A release-managed deployable service component.
@@ -34,10 +33,10 @@ The artifacts the group is supposed to deliver include:
 * End user and DevOps documentation
 * Report current progress on a weekly basis following [15/5 Reports](https://openpracticelibrary.com/practice/15-5-reports/) and posted to the related GitHub repository.
 
-
 ## Stakeholders
 
 Stakeholders for this working group include members in the following SIGs:
+
 * SIG Product-Management
 * SIG Reproducibility
 

@@ -10,7 +10,7 @@ To understand how this file is generated, see https://git.k8s.io/community/gener
 --->
 # Steering Committee
 
-The Steering Committee is the governing body of the Open Services Group, The Steering Committee defines the project values and structure.
+The Steering Committee is the governing body of the Open Services Group, The Steering Committee defines the project values and structure. The Steering Committee are named people that are chartered to take on sensitive topics. This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed. The Steering Committee can have Sub-Committees. The Steering Committee is responsible for: project-level governance, binding and final arbitration, management of sub-structures, security process management, manages project-level policies such as the Code of Conduct
 
 
 ## Meetings

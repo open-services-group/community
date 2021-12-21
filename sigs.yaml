@@ -3,22 +3,18 @@ workinggroups:
 - dir: wg-byon-build-pipelines
   name: BYON build pipelines
   mission_statement: >
-    The goal of this working group is to create a service
-    that implements the Bring Your Own Notebook (BYON) MVP
-    in the context of Open Data Hub (ODH).
+    The goal of this working group is to create a service that implements the Bring
+    Your Own Notebook (BYON) MVP in the context of Open Data Hub (ODH).
 
   charter_link: charter.md
-  stakeholder_sigs:
-  - Product Management
-  - Reproducibility
   label: byon-build-pipelines
   leadership:
     chairs:
-    - github: tmckayus
-      name: Trevor McKay
-      company: Red Hat
     - github: pacospace
       name: Francesco Murdaca
+      company: Red Hat
+    - github: tmckayus
+      name: Trevor McKay
       company: Red Hat
   meetings:
   - description: Regular WG Meeting
@@ -27,16 +23,20 @@ workinggroups:
     tz: ET (East Time)
     frequency: weekly
     url: meet.google.com/qkt-yacp-wzm
+  contact: {}
 usergroups: []
 committees:
 - dir: committee-steering
   name: Steering
   mission_statement: >
-    The Steering Committee is the governing body of the Open Services Group, The Steering Committee defines the project values and structure.
-    The Steering Committee are named people that are chartered to take on sensitive topics.
-    This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed.
-    The Steering Committee can have Sub-Committees.
-    The Steering Committee is responsible for: project-level governance, binding and final arbitration, management of sub-structures, security process management, manages project-level policies such as the Code of Conduct
+    The Steering Committee is the governing body of the Open Services Group, The Steering
+    Committee defines the project values and structure. The Steering Committee are
+    named people that are chartered to take on sensitive topics. This group is encouraged
+    to be as open as possible while achieving its mission but, because of the nature
+    of the topics discussed, private communications are allowed. The Steering Committee
+    can have Sub-Committees. The Steering Committee is responsible for: project-level
+    governance, binding and final arbitration, management of sub-structures, security
+    process management, manages project-level policies such as the Code of Conduct
 
   label: steering
   leadership:

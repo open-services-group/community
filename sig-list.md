@@ -34,19 +34,12 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-|[Product Management]|-------|--------|---------|----------|
-|[Velocity]|-------|--------|---------|----------|
-|[Observability]|-------|--------|---------|----------|
-|[DevSecOps]|-------|--------|---------|----------|
-|[Reproducibility]|-------|--------|---------|----------|
-|[User Experience]|-------|--------|---------|----------|
 
 ### Working Groups
 
 | Name | Stakeholder SIGs |Organizers | Contact | Meetings |
 |------|------------------|-----------|---------|----------|
-|[BYON Build Pipelines]|------------------|-----------|---------|----------|
-|[ODH DevSecOps]|------------------|-----------|---------|----------|
+|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Francesco Murdaca](https://github.com/pacospace), Red Hat<br>* [Trevor McKay](https://github.com/tmckayus), Red Hat<br>|* [Slack](https://kubernetes.slack.com/messages/)<br>* [Mailing List]()|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](meet.google.com/qkt-yacp-wzm)<br>
 
 ### Committees
 
@@ -56,14 +49,3 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
-
-
-[Product Management]: /sig/sig-productManagement
-[Velocity]: /sig/sig-velocity
-[Observability]: /sig/sig-observability
-[DevSecOps]: /sig/sig-devSecOps
-[Reproducibility]: /sig/sig-reproducibility
-[User Experience]: /sig/sig-userExperience
-
-[BYON Build Pipelines]: /wg/wg-byonBuildPipelines
-[ODH DevSecOps]: /wg/wg-odhDevSecOps
