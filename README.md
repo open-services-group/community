@@ -12,7 +12,7 @@ The way how we organise our community and work is heavily inspired by the [Kuber
 
 Open Services Group has the following types of groups that are officially supported:
 
-* **[Steering Committee](/committee-steering/README.md)** are named people that are chartered to take on sensitive topics.
+* **[Steering Committee]** are named people that are chartered to take on sensitive topics.
   This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed.
 * **[Special Interest Groups (SIGs)](/sig-list.md)** are persistent open groups that focus on a part of the project.
   SIGs must have open and transparent proceedings.
@@ -20,7 +20,7 @@ Open Services Group has the following types of groups that are officially suppor
   The purpose of a SIG is to own and develop a set of **[Subprojects](/sub-projects.md)**.
   * **[Subprojects](/sub-projects.md)**: Each SIG can have a set of subprojects.
     These are smaller groups that can work independently.
-* **[Working Groups](/working-groups.md)** are temporary groups that are formed to address issues that cross SIG boundaries.
+* **[Working Groups]** are temporary groups that are formed to address issues that cross SIG boundaries.
   Working groups do not own any code or other long term artifacts.
   Working groups can report back and act through involved SIGs.
 
@@ -48,8 +48,9 @@ We encourage all contributors to become members. We aim to grow an active, healt
 <!-- links -->
 
 [Kubernetes Community]: https://github.com/kubernetes/community
-[Steering Committee]: /steering-committee
+[Steering Committee]: /committee-steering
 
 [file an issue]: /CONTRIBUTING.md#reporting-bugs
 [find something to work on]: https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to
 [open a pull request]: /CONTRIBUTING.md#requirements-for-pull-requests-pr
+[Working Groups]: /sig-list.md#working-groups
