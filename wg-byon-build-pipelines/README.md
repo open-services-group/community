@@ -23,7 +23,6 @@ The [charter](charter.md) defines the scope and governance of the BYON build pip
 * Trevor McKay (**[@tmckayus](https://github.com/tmckayus)**), Red Hat
 
 ## Contact
-- Slack: [#](https://kubernetes.slack.com/messages/)
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/wg%2Fbyon-build-pipelines)
 <!-- BEGIN CUSTOM CONTENT -->
 
