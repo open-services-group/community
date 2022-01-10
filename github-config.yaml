@@ -46,6 +46,12 @@ orgs:
           by our bots...
         has_projects: false
         has_wiki: false
+      byon:
+        default_branch: main
+        description:
+          Bring Your Own Notebook (BYON) project repository.
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
@@ -89,3 +95,4 @@ orgs:
         privacy: closed
         repos:
           community: admin
+          byon: admin
