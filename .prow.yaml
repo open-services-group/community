@@ -3,7 +3,7 @@ presubmits:
     decorate: true
     skip_report: false
     always_run: true
-    context: open-services-group/prow/pre-commit
+    context: pre-commit
     spec:
       containers:
         - image: quay.io/thoth-station/thoth-precommit-py38:v0.13.0
@@ -15,7 +15,7 @@ presubmits:
     decorate: true
     run_if_changed: github-config.yaml
     skip_report: false
-    context: open-services-group/prow/peribolos
+    context: peribolos
     spec:
       containers:
         - image: gcr.io/k8s-prow/peribolos:latest
@@ -50,7 +50,7 @@ presubmits:
     decorate: true
     run_if_changed: labels.yaml
     skip_report: false
-    context: open-services-group/prow/labels
+    context: labels
     spec:
       containers:
         - image: gcr.io/k8s-prow/label_sync:latest
@@ -79,7 +79,7 @@ postsubmits:
     decorate: true
     run_if_changed: ^github-config\.yaml$
     skip_report: false
-    context: open-services-group/prow/peribolos
+    context: peribolos
     branches:
       - ^main$
     spec:
@@ -117,7 +117,7 @@ postsubmits:
     decorate: true
     run_if_changed: ^(github-config|labels)\.yaml$
     skip_report: false
-    context: open-services-group/prow/labels
+    context: labels
     branches:
       - ^main$
     spec:
