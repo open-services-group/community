@@ -1,0 +1,8 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - wg-byon-build-pipelines-leads
+approvers:
+  - wg-byon-build-pipelines-leads
+labels:
+  - wg/byon-build-pipelines
