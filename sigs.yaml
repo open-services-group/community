@@ -14,12 +14,12 @@ sigs:
         company: Red Hat
   meetings:
   - description: Data Science SIG meeting
-    day: tbd
-    time: tbd
+    day: Tuesday
+    time: "11:00"
     tz: ET (East Time)
     frequency: bi-weekly
     url: tbd
-  contact: tbd
+  contact: {}
 
 workinggroups:
 - dir: wg-byon-build-pipelines
