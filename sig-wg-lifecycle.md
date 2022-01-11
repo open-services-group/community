@@ -78,7 +78,6 @@ Sometimes it might be necessary to sunset a SIG or Working Group. SIGs/WGs may a
 - [ ] Open an issue alerting the community of your intentions to disband or merge.
 - This kicks off the process for Contributor Experience’s community managers who will reach out and set an issue against `kubernetes/community` with exact next steps covered below. We can help walk through this when you get there. Most of this is covered in the same creation communication docs as above.
 - [ ] Archive the member and lead/chair mailing lists/[GoogleGroups]
-- [ ] Check the [slack-guidelines.md] for latest process on archiving the slack channel
 - [ ] Deactivate the zoom license
 - [ ] Delete your shared SIG/WG/UG calendar
 - [ ] Ensure that the [youtube-guidelines.md] links are removed and you've uploaded all SIG/WG/UG meetings to date
@@ -107,7 +106,6 @@ Sometimes it might be necessary to sunset a SIG or Working Group. SIGs/WGs may a
 [GitHub management]: /github-management
 [code of conduct]: /code-of-conduct.md
 [moderation.md]: /communication/moderation.md
-[slack-guidelines.md]: /communication/slack-guidelines.md
 [youtube-guidelines.md]: /communication/youtube/youtube-guidelines.md
 [zoom-guidelines.md]: /communication/zoom-guidelines.md
 [Thursday community updates]: /events/community-meeting.md
