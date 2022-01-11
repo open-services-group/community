@@ -73,6 +73,23 @@ presubmits:
         - name: github-oauth
           secret:
             secretName: oauth-token
+  - name: community-tools
+    decorate: true
+    run_if_changed: sigs.yaml
+    skip_report: false
+    context: community-tools
+    spec:
+      containers:
+        - image: quay.io/open-services-group/community-tooling:v0.1.0-dev
+          command:
+            - /generator
+          volumeMounts:
+            - name: github-oauth
+              mountPath: /etc/github
+      volumes:
+        - name: github-oauth
+          secret:
+            secretName: oauth-token
 
 postsubmits:
   - name: peribolos
