@@ -23,13 +23,13 @@ sigs:
   subprojects:
   - name: AIOps
     owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
   - name: MLOps
     owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
   - name: Monitoring
     owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
 
 workinggroups:
 - dir: wg-byon-build-pipelines
