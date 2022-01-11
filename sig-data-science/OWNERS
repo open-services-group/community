@@ -1,0 +1,9 @@
+
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - sig-data-science-leads
+approvers:
+  - sig-data-science-leads
+labels:
+  - sig/data-science
