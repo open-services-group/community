@@ -8,6 +8,13 @@
 ---
 default:
   labels:
+    - color: d2b48c
+      description: Categorizes an issue or PR as relevant to WG BYON Build Pipelines.
+      name: wg/byon-build-pipelines
+      target: both
+      prowPlugin: label
+      addedBy: anyone
+
     - color: c0ff4a
       description: Denotes an issue or PR intended to be handled by the steering committee.
       name: committee/steering
