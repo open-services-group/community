@@ -6,7 +6,7 @@ sigs:
    to the open services group.
 
   charter_link: charter.md
-  label: datascience
+  label: data-science
   leadership:
     chairs:
       - github: michaelclifford
@@ -20,6 +20,16 @@ sigs:
     frequency: bi-weekly
     url: tbd
   contact: {}
+  subprojects:
+  - name: AIOps
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
+  - name: MLOps
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
+  - name: Monitoring
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig/data-science/OWNERS
 
 workinggroups:
 - dir: wg-byon-build-pipelines
