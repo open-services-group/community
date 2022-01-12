@@ -99,7 +99,6 @@ orgs:
         description: Leads Team for BYON project
         maintainers:
           - pacospace
-          - tmckayus
         members:
         privacy: closed
         repos:
