@@ -25,7 +25,6 @@ The Chairs of the SIG run operations and processes governing the SIG.
 * Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**), Red Hat
 
 ## Contact
-- Slack: [#](https://kubernetes.slack.com/messages/)
 - [Mailing list]()
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/sig%2Fdata-science)
 
