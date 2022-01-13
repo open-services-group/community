@@ -50,6 +50,11 @@ orgs:
         description: Bring Your Own Notebook (BYON) project repository.
         has_projects: false
         has_wiki: false
+      devsecops:
+        default_branch: main
+        description: ODH DevSecOps repository.
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
@@ -102,3 +107,12 @@ orgs:
         privacy: closed
         repos:
           byon: admin
+      wg-devsecops-leads:
+        description: Leads Team for DevSecOps
+        maintainers:
+          - HumairAK
+          - harshad16
+        members:
+        privacy: closed
+        repos:
+          devsecops: admin
