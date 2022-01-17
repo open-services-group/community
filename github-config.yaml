@@ -32,7 +32,6 @@ orgs:
       - pacospace
       - schwesig
       - Shreyanand
-      - sub-mod
       - suppathak
       - tumido
       - xtuchyna
@@ -44,6 +43,16 @@ orgs:
         description:
           This repository handles a few common things, it is mainly used
           by our bots...
+        has_projects: false
+        has_wiki: false
+      byon:
+        default_branch: main
+        description: Bring Your Own Notebook (BYON) project repository.
+        has_projects: false
+        has_wiki: false
+      devsecops:
+        default_branch: main
+        description: ODH DevSecOps repository.
         has_projects: false
         has_wiki: false
     teams:
@@ -89,3 +98,21 @@ orgs:
         privacy: closed
         repos:
           community: admin
+          byon: admin
+      wg-byon-build-pipelines-leads:
+        description: Leads Team for BYON project
+        maintainers:
+          - pacospace
+        members:
+        privacy: closed
+        repos:
+          byon: admin
+      wg-devsecops-leads:
+        description: Leads Team for DevSecOps
+        maintainers:
+          - HumairAK
+          - harshad16
+        members:
+        privacy: closed
+        repos:
+          devsecops: admin

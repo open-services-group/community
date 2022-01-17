@@ -2,8 +2,8 @@ sigs:
 - dir: sig-data-science
   name: Data Science
   mission_statement: >
-   Covers all aspects of Data Science and Machine Learning as it pertains
-   to the open services group.
+    Covers all aspects of Data Science and Machine Learning as it pertains to the
+    open services group.
 
   charter_link: charter.md
   label: data-science
@@ -33,7 +33,6 @@ sigs:
   - name: Monitoring
     owners:
     - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
-
 workinggroups:
 - dir: wg-byon-build-pipelines
   name: BYON build pipelines
@@ -58,6 +57,30 @@ workinggroups:
     tz: ET (East Time)
     frequency: weekly
     url: meet.google.com/qkt-yacp-wzm
+  contact: {}
+- dir: wg-devsecops
+  name: DevSecOps
+  mission_statement: >
+    The goal of this working group is to enable operations of an instance of data
+    science tooling as a service utilizing ODH.
+
+  charter_link: charter.md
+  label: devsecops
+  leadership:
+    chairs:
+    - github: HumairAK
+      name: Humair Khan
+      company: Red Hat
+    - github: harshad16
+      name: Harshad Reddy Nalla
+      company: Red Hat
+  meetings:
+  - description: Regular WG Meeting
+    day: Tuesday
+    time: "11:00"
+    tz: ET (East Time)
+    frequency: weekly
+    url: meet.google.com/zsu-avba-enx
   contact: {}
 usergroups: []
 committees:
