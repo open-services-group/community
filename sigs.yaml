@@ -12,13 +12,16 @@ sigs:
       - github: michaelclifford
         name: Michael Clifford
         company: Red Hat
+      - github: erikerlandson
+        name: Erik Erlandson
+        company: Red Hat
   meetings:
   - description: Data Science SIG meeting
-    day: Tuesday
-    time: "11:00"
+    day: Wednesday
+    time: "10:00"
     tz: ET (East Time)
     frequency: bi-weekly
-    url: tbd
+    url: meet.google.com/ufs-hgvi-oni
   contact: {}
   subprojects:
   - name: AIOps
