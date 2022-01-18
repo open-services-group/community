@@ -15,13 +15,14 @@ Covers all aspects of Data Science and Machine Learning as it pertains to the op
 The [charter](charter.md) defines the scope and governance of the Data Science Special Interest Group.
 
 ## Meetings
-* Data Science SIG meeting: [Tuesdays at 11:00 ET (East Time)](tbd) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
 
 ## Leadership
 
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
+* Erik Erlandson (**[@erikerlandson](https://github.com/erikerlandson)**), Red Hat
 * Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**), Red Hat
 
 ## Contact

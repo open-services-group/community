@@ -9,12 +9,12 @@ sigs:
   label: data-science
   leadership:
     chairs:
-      - github: michaelclifford
-        name: Michael Clifford
-        company: Red Hat
-      - github: erikerlandson
-        name: Erik Erlandson
-        company: Red Hat
+    - github: erikerlandson
+      name: Erik Erlandson
+      company: Red Hat
+    - github: michaelclifford
+      name: Michael Clifford
+      company: Red Hat
   meetings:
   - description: Data Science SIG meeting
     day: Wednesday

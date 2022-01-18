@@ -34,7 +34,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-|[Data Science](sig-data-science/README.md)|data-science|* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Tuesdays at 11:00 ET (East Time) (bi-weekly)](tbd)<br>
+|[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time) (bi-weekly)](meet.google.com/ufs-hgvi-oni)<br>
 
 ### Working Groups
 
