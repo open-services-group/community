@@ -30,7 +30,7 @@ A SIG can have its own policy for contribution, described in a `README` or `CONT
 
 ## Contribute
 
-A first step to contributing is to pick from the [list of SIGs](/sig/README.md).
+A first step to contributing is to pick from the [list of SIGs](/sig-list.md).
 Start attending SIG meetings, join the communication channel or/and subscribe to the mailing list.
 SIGs will often have a set of "help wanted" issues that can help new contributors get involved.
 
