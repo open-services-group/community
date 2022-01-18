@@ -47,7 +47,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name |  Label | Members | Contact |
 |------|--------|---------|---------|
-|[Steering](committee-steering/README.md)|steering|* [Marcel Hild](https://github.com/durandom), Red Hat<br>* [Christoph Görn](https://github.com/goern), Red Hat<br>|
+|[Steering](committee-steering/README.md)|steering|* [Marcel Hild](https://github.com/durandom), Red Hat<br>* [Christoph Görn](https://github.com/goern), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>* [Thorsten Schwesig](https://github.com/schwesig), Red Hat<br>* [Tom Coufal](https://github.com/tumido), Red Hat<br>|
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->

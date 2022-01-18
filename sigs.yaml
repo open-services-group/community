@@ -22,7 +22,10 @@ sigs:
     tz: ET (East Time)
     frequency: bi-weekly
     url: meet.google.com/ufs-hgvi-oni
-  contact: {}
+  contact:
+    liaison:
+      github: michaelclifford
+      name: Michael Clifford
   subprojects:
   - name: AIOps
     owners:
@@ -105,10 +108,19 @@ committees:
     - github: goern
       name: Christoph Görn
       company: Red Hat
+    - github: michaelclifford
+      name: Michael Clifford
+      company: Red Hat
+    - github: schwesig
+      name: Thorsten Schwesig
+      company: Red Hat
+    - github: tumido
+      name: Tom Coufal
+      company: Red Hat
   meetings:
   - description: Private Steering Committee Meeting
     day: every Tuesday
-    time: "12:30"
+    time: "16:00"
     tz: UTC
     frequency: weekly
   contact:
