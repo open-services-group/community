@@ -123,6 +123,7 @@ committees:
     time: "16:00"
     tz: UTC
     frequency: weekly
+    archive_url: https://docs.google.com/document/d/192t0wROKJ-b1cpmgAu_4Dyr_yQEzIFovHpyC90Wd044/edit#
   contact:
     teams:
     - name: steering-committee
