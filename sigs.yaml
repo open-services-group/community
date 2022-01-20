@@ -22,6 +22,12 @@ sigs:
     tz: ET (East Time)
     frequency: bi-weekly
     url: meet.google.com/ufs-hgvi-oni
+  - description: Operate First Data Science Community Project Meeting
+    day: Wednesday
+    time: "12:00"
+    tz: ET (East Time)
+    frequency: weekly
+    url: meet.google.com/ngp-npcx-nws
   contact:
     liaison:
       github: michaelclifford
@@ -30,6 +36,10 @@ sigs:
   - name: AIOps
     owners:
     - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
+  - name: Operate First Data Science Community
+    description: '[Described below](#operate-first-data-science-community)'
+    owners:
+    - https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS
   - name: MLOps
     owners:
     - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS

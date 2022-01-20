@@ -36,6 +36,7 @@ The following [subprojects][subproject-definition] are owned by sig-data-science
 ### AIOps
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
+
 ### MLOps
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
@@ -45,5 +46,15 @@ The following [subprojects][subproject-definition] are owned by sig-data-science
 
 [subproject-definition]: https://github.com/open-services-group/community/blob/master/governance.md#subprojects
 <!-- BEGIN CUSTOM CONTENT -->
+
+# Details about SIG Data Science sub-projects
+
+## Operate First Data Science Community
+
+This subproject is responsible for organizing, hosting, promoting and growing the Operate First Data Science Community and its associated meetup.
+
+The  Operate First Data Science Community aims to embrace the multidisciplinary nature of the current state of AI operations and cloud infrastructure by discussing technical topics relevant to data scientists, software developers, DevOps professionals, statisticians, and the intersection of their work, all in an open and collaborative public platform.
+
+[Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
 
 <!-- END CUSTOM CONTENT -->
