@@ -28,6 +28,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Contact
 - [Mailing list]()
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/sig%2Fdata-science)
+- Steering Committee Liaison: Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**)
 
 ## Subprojects
 

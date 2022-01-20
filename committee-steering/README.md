@@ -14,12 +14,15 @@ The Steering Committee is the governing body of the Open Services Group, The Ste
 
 
 ## Meetings
-* Private Steering Committee Meeting: [every Tuesdays at 12:30 UTC]() (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:30&tz=UTC).
+* Private Steering Committee Meeting: [every Tuesdays at 16:00 UTC]() (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC).
 
 ## Members
 
 * Marcel Hild (**[@durandom](https://github.com/durandom)**), Red Hat
 * Christoph Görn (**[@goern](https://github.com/goern)**), Red Hat
+* Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**), Red Hat
+* Thorsten Schwesig (**[@schwesig](https://github.com/schwesig)**), Red Hat
+* Tom Coufal (**[@tumido](https://github.com/tumido)**), Red Hat
 
 ## Contact
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/committee%2Fsteering)

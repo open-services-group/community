@@ -25,6 +25,7 @@ of SIGs, WGs and UGs.
 
 | Community Group            | Steering Committee Liaison |
 | -------------------------- | -------------------------- |
+| [SIG Data Science](sig-data-science/README.md) | Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**) |
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
