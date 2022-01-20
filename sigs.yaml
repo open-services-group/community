@@ -77,7 +77,7 @@ workinggroups:
     time: "11:00"
     tz: ET (East Time)
     frequency: weekly
-    url: http://meet.google.com/zsu-avba-enx
+    url: https://meet.google.com/zsu-avba-enx
   contact: {}
 usergroups: []
 committees:
