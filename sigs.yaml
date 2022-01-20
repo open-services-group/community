@@ -59,7 +59,7 @@ workinggroups:
     time: "10:00"
     tz: ET (East Time)
     frequency: weekly
-    url: meet.google.com/qkt-yacp-wzm
+    url: https://meet.google.com/qkt-yacp-wzm
   contact: {}
 - dir: wg-devsecops
   name: DevSecOps
@@ -83,7 +83,7 @@ workinggroups:
     time: "11:00"
     tz: ET (East Time)
     frequency: weekly
-    url: meet.google.com/zsu-avba-enx
+    url: https://meet.google.com/zsu-avba-enx
   contact: {}
 usergroups: []
 committees:
