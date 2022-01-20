@@ -53,7 +53,7 @@ workinggroups:
     time: "10:00"
     tz: ET (East Time)
     frequency: weekly
-    url: http://meet.google.com/qkt-yacp-wzm
+    url: https://meet.google.com/qkt-yacp-wzm
   contact: {}
 - dir: wg-devsecops
   name: DevSecOps
