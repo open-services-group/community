@@ -21,6 +21,7 @@ sigs:
     time: "10:00"
     tz: ET (East Time)
     frequency: bi-weekly
+    archive_url: https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit
     url: meet.google.com/ufs-hgvi-oni
   contact:
     liaison:
