@@ -21,9 +21,10 @@ SIG Data Science is responsible for the development, exploration and communicati
 
 #### Cross-cutting and Externally Facing Processes
 
-* Support external teams onboarding data science work to any open services managed clusters.
-* Work with other SIG's to ensure data science use-cases are correctly met by new tools and services where appropriate.
-* Work with other SIG’s to ensure data collection and reporting is ongoing.
+* Provide guidance to external groups (including open source communities, other Red Hat teams and OSG SIG's) with onboarding and development of data science work on any of the Open Services managed clusters.
+* Foster a two-way relationship with the data science focused groups within Red Hat.
+* Work with open source communities, other Red Hat teams and OSG SIG's to ensure data science use-cases are correctly met by new tools and services where appropriate.
+* Work with other OSG SIG’s to ensure data collection and reporting is ongoing.
 
 
 ### Out of scope
