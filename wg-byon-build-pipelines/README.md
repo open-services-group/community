@@ -15,7 +15,7 @@ The goal of this working group is to create a service that implements the Bring 
 The [charter](charter.md) defines the scope and governance of the BYON build pipelines Working Group.
 
 ## Meetings
-* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/qkt-yacp-wzm) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
+* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time)](https://meet.google.com/qkt-yacp-wzm) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
 
 ## Organizers
 

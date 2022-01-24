@@ -16,6 +16,8 @@ The [charter](charter.md) defines the scope and governance of the Data Science S
 
 ## Meetings
 * Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
+* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
 
 ## Leadership
 
@@ -36,13 +38,16 @@ The following [subprojects][subproject-definition] are owned by sig-data-science
 ### AIOps
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
-
 ### MLOps
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
 ### Monitoring
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
+### Operate First Data Science Community
+[Described below](#operate-first-data-science-community)
+- **Owners:**
+  - [aicoe-aiops/operate-first-data-science-community](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS)
 
 [subproject-definition]: https://github.com/open-services-group/community/blob/master/governance.md#subprojects
 <!-- BEGIN CUSTOM CONTENT -->

@@ -15,6 +15,7 @@ The Steering Committee is the governing body of the Open Services Group, The Ste
 
 ## Meetings
 * Private Steering Committee Meeting: [every Tuesdays at 16:00 UTC]() (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/192t0wROKJ-b1cpmgAu_4Dyr_yQEzIFovHpyC90Wd044/edit#).
 
 ## Members
 

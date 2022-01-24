@@ -15,7 +15,7 @@ The goal of this working group is to enable operations of an instance of data sc
 The [charter](charter.md) defines the scope and governance of the DevSecOps Working Group.
 
 ## Meetings
-* Regular WG Meeting: [Tuesdays at 11:00 ET (East Time)](meet.google.com/zsu-avba-enx) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+* Regular WG Meeting: [Tuesdays at 11:00 ET (East Time)](https://meet.google.com/zsu-avba-enx) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
 
 ## Organizers
 
