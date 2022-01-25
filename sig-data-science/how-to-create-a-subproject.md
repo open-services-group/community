@@ -8,7 +8,7 @@ Make sure you have met all the prerequisites needed for a subproject:
 ### Prerequisites:
 * A Github repo within any organization
 * A Github project board within any organization
-* Project Owners defined in Repo's [https://www.kubernetes.dev/docs/guide/owners/](OWNERS file)
+* Project Owners defined in Repo's [OWNERS file](https://www.kubernetes.dev/docs/guide/owners/)
 * Agreement in an earlier SIG-Data-Science meeting that the subproject should move forward as noted in meeting notes.
 
 ## Step 2:
