@@ -1,4 +1,41 @@
 sigs:
+- dir: sig-community-experience
+  name: Community Experience
+  mission_statement: >-
+    Our goal is to nurture a sustainable community by stabilizing and growing it through
+    delivering good quality services using the data driven approach.
+  charter_link: charter.md
+  label: community-experience
+  leadership:
+    chairs:
+    - github: codificat
+      name: Pep Turró Mauri
+      company: Red Hat
+    - github: schwesig
+      name: Thorsten Schwesig
+      company: Red Hat
+  meetings:
+  - description: Community Experience SIG meeting
+    day: Wednesday
+    time: "17:00"
+    tz: CET (Central Europe Time)
+    frequency: bi-weekly
+    url: https://meet.google.com/tig-yuxq-fyh
+    archive_url: https://docs.google.com/document/d/1t47S9JUZbI3q0_LgVtaBKYsaGqnOP6YSG6x8XaBhiew/edit
+  contact:
+    liaison:
+      github: schwesig
+      name: Thorsten Schwesig
+  subprojects:
+  - name: ComCom
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
+  - name: GovOrg
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
+  - name: Metrics Strategic
+    owners:
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
 - dir: sig-data-science
   name: Data Science
   mission_statement: >
