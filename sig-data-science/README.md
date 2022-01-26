@@ -62,4 +62,11 @@ The  Operate First Data Science Community aims to embrace the multidisciplinary 
 
 [Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
 
+## OS-Climate
+
+This subproject is responsible for supporting the data science efforts of the OS-Climate community.
+
+
+[OS-Climate Github Organization](https://github.com/os-climate)
+
 <!-- END CUSTOM CONTENT -->
