@@ -29,6 +29,7 @@ sigs:
     tz: ET (East Time)
     frequency: weekly
     url: meet.google.com/ngp-npcx-nws
+    archive_url: https://docs.google.com/document/d/19_xPxfsazD6rJfe1aHNjVC9_bKpOfnepsifCZ4GBw8o/edit
   contact:
     liaison:
       github: michaelclifford
