@@ -2,6 +2,8 @@ aliases:
   sig-data-science-leads:
     - erikerlandson
     - michaelclifford
+  sig-services-leads:
+    - tumido
   wg-byon-build-pipelines-leads:
     - pacospace
     - tmckayus

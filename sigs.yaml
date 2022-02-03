@@ -48,6 +48,46 @@ sigs:
     description: '[Described below](#operate-first-data-science-community)'
     owners:
     - https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS
+- dir: sig-services
+  name: Services
+  mission_statement: >
+    Oversee, steer and organize involvement and commitment of new and existing services.
+
+  charter_link: charter.md
+  label: services
+  leadership:
+    chairs:
+    - github: tumido
+      name: Tom Coufal
+      company: Red Hat
+  meetings:
+  - description: Regular SIG Meeting
+    day: Thursday
+    time: "14:00"
+    tz: UTC
+    frequency: weekly
+    url: https://meet.google.com/qhw-vgww-pdu
+  contact:
+    liaison:
+      github: tumido
+      name: Tom Coufal
+  subprojects:
+  - name: AICoE-CD
+    owners:
+    - https://raw.githubusercontent.com/AICoE/aicoe-cd/master/OWNERS
+  - name: AICoE-CI
+    owners:
+    - https://raw.githubusercontent.com/AICoE/aicoe-ci/master/OWNERS
+  - name: Project Meteor
+    owners:
+    - https://raw.githubusercontent.com/AICoE/meteor-operator/main/OWNERS
+    - https://raw.githubusercontent.com/AICoE/meteor/main/OWNERS
+  - name: Project Thoth
+    owners:
+    - https://raw.githubusercontent.com/thoth-station/core/master/OWNERS
+  - name: Seraph
+    owners:
+    - https://raw.githubusercontent.com/AICoE/seraph/main/OWNERS
 workinggroups:
 - dir: wg-byon-build-pipelines
   name: BYON build pipelines
