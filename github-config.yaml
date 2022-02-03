@@ -55,6 +55,11 @@ orgs:
         description: ODH DevSecOps repository.
         has_projects: false
         has_wiki: false
+      metrics:
+        default_branch: main
+        description: Metrics project repository.
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
