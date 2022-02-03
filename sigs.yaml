@@ -23,6 +23,13 @@ sigs:
     frequency: bi-weekly
     url: meet.google.com/ufs-hgvi-oni
     archive_url: https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit
+  - description: OS-Climate Project Meeting
+    day: Thursday
+    time: "11:00"
+    tz: ET (East Time)
+    frequency: weekly
+    url: meet.google.com/kdy-sqyf-rud
+    archive_url: https://docs.google.com/document/d/1PZTRTrU68LZXUy9GgKCp38KpVyG4lrN5Cw8Zv9pGmjE/edit
   - description: Operate First Data Science Community Project Meeting
     day: Wednesday
     time: "12:00"
@@ -35,15 +42,13 @@ sigs:
       github: michaelclifford
       name: Michael Clifford
   subprojects:
-  - name: AIOps
+  - name: OS-Climate
+    description: '[Described below](#os-climate)'
     owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
-  - name: MLOps
-    owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
-  - name: Monitoring
-    owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
+    - https://raw.githubusercontent.com/os-climate/aicoe-osc-demo/master/OWNERS
+    - https://raw.githubusercontent.com/os-climate/data-platform-demo/master/OWNERS
+    - https://raw.githubusercontent.com/os-climate/osc-ingest-tools/main/OWNERS
+    - https://raw.githubusercontent.com/os-climate/osc-trino-acl-dsl/main/OWNERS
   - name: Operate First Data Science Community
     description: '[Described below](#operate-first-data-science-community)'
     owners:

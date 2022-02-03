@@ -17,7 +17,10 @@ The [charter](charter.md) defines the scope and governance of the Data Science S
 ## Meetings
 * Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
+* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time)](meet.google.com/kdy-sqyf-rud) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1PZTRTrU68LZXUy9GgKCp38KpVyG4lrN5Cw8Zv9pGmjE/edit).
 * Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/19_xPxfsazD6rJfe1aHNjVC9_bKpOfnepsifCZ4GBw8o/edit).
 
 ## Leadership
 
@@ -35,15 +38,13 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-data-science:
-### AIOps
+### OS-Climate
+[Described below](#os-climate)
 - **Owners:**
-  - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
-### MLOps
-- **Owners:**
-  - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
-### Monitoring
-- **Owners:**
-  - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
+  - [os-climate/aicoe-osc-demo](https://github.com/os-climate/aicoe-osc-demo/blob/master/OWNERS)
+  - [os-climate/data-platform-demo](https://github.com/os-climate/data-platform-demo/blob/master/OWNERS)
+  - [os-climate/osc-ingest-tools](https://github.com/os-climate/osc-ingest-tools/blob/main/OWNERS)
+  - [os-climate/osc-trino-acl-dsl](https://github.com/os-climate/osc-trino-acl-dsl/blob/main/OWNERS)
 ### Operate First Data Science Community
 [Described below](#operate-first-data-science-community)
 - **Owners:**
@@ -61,5 +62,12 @@ This subproject is responsible for organizing, hosting, promoting and growing th
 The  Operate First Data Science Community aims to embrace the multidisciplinary nature of the current state of AI operations and cloud infrastructure by discussing technical topics relevant to data scientists, software developers, DevOps professionals, statisticians, and the intersection of their work, all in an open and collaborative public platform.
 
 [Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
+
+## OS-Climate
+
+This subproject is responsible for supporting the data science efforts of the OS-Climate community.
+
+
+[OS-Climate Github Organization](https://github.com/os-climate)
 
 <!-- END CUSTOM CONTENT -->
