@@ -15,11 +15,11 @@ Covers all aspects of Data Science and Machine Learning as it pertains to the op
 The [charter](charter.md) defines the scope and governance of the Data Science Special Interest Group.
 
 ## Meetings
-* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
+* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](https://meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
-* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time)](meet.google.com/kdy-sqyf-rud) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time)](https://meet.google.com/kdy-sqyf-rud) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1PZTRTrU68LZXUy9GgKCp38KpVyG4lrN5Cw8Zv9pGmjE/edit).
-* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
+* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](https://meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/19_xPxfsazD6rJfe1aHNjVC9_bKpOfnepsifCZ4GBw8o/edit).
 
 ## Leadership
