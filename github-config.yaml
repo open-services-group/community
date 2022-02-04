@@ -121,13 +121,3 @@ orgs:
         privacy: closed
         repos:
           devsecops: admin
-      sp-metrics-leads:
-        description: Leads Team for sub-project metrics
-        maintainers:
-          - hemajv
-          - Shreyanand
-        members:
-          - harshad16
-        privacy: closed
-        repos:
-          metrics: admin
