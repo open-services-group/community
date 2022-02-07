@@ -39,24 +39,20 @@ orgs:
     name: Open Services Group
     repos:
       community:
-        default_branch: main
         description:
           This repository handles a few common things, it is mainly used
           by our bots...
         has_projects: false
         has_wiki: false
       byon:
-        default_branch: main
         description: Bring Your Own Notebook (BYON) project repository.
         has_projects: false
         has_wiki: false
       devsecops:
-        default_branch: main
         description: ODH DevSecOps repository.
         has_projects: false
         has_wiki: false
       metrics:
-        default_branch: main
         description: Metrics project repository.
         has_projects: false
         has_wiki: false
@@ -89,11 +85,16 @@ orgs:
         maintainers:
           - goern
           - harshad16
+          - HumairAK
           - sesheta
+          - tumido
         members:
         privacy: closed
         repos:
+          byon: admin
           community: admin
+          devsecops: admin
+          metrics: admin
       Steering:
         description: The Open Services Group steering committee
         maintainers:
@@ -103,7 +104,6 @@ orgs:
         privacy: closed
         repos:
           community: admin
-          byon: admin
       wg-byon-build-pipelines-leads:
         description: Leads Team for BYON project
         maintainers:
@@ -121,13 +121,3 @@ orgs:
         privacy: closed
         repos:
           devsecops: admin
-      sp-metrics-leads:
-        description: Leads Team for sub-project metrics
-        maintainers:
-          - hemajv
-          - Shreyanand
-        members:
-          - harshad16
-        privacy: closed
-        repos:
-          metrics: admin
