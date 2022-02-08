@@ -136,11 +136,12 @@ workinggroups:
       company: Red Hat
   meetings:
   - description: Regular WG Meeting
-    day: Tuesday
-    time: "11:00"
+    day: Wednesday
+    time: "12:30"
     tz: ET (East Time)
     frequency: weekly
-    url: https://meet.google.com/zsu-avba-enx
+    url: https://meet.google.com/pfj-upnw-rpi
+    archive_url: https://docs.google.com/document/d/1RJ9bCczAK_PTFVPXUzq-yd0Nwy9k7BTQRzbmEFM1c2M/edit#heading=h.bcgtllrv3gg3
   contact: {}
 usergroups: []
 committees:
