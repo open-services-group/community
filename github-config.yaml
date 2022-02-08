@@ -121,3 +121,12 @@ orgs:
         privacy: closed
         repos:
           devsecops: admin
+      sp-metrics-maintainers:
+        description: Maintainers Team for the Metrics sub-project
+        maintainers:
+          - hemajv
+          - Shreyanand
+        members:
+        privacy: closed
+        repos:
+          metrics: admin
