@@ -34,8 +34,8 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-|[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time) (bi-weekly)](https://meet.google.com/ufs-hgvi-oni)<br>* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/kdy-sqyf-rud)<br>* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time) (weekly)](https://meet.google.com/ngp-npcx-nws)<br>
-|[Services](sig-services/README.md)|services|* [Shrey Anand](https://github.com/Shreyanand), Red Hat<br>* [Tom Coufal](https://github.com/tumido), Red Hat<br>||* Regular SIG Meeting: [Thursdays at 14:00 UTC (weekly)](https://meet.google.com/qhw-vgww-pdu)<br>
+|[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time) (bi-weekly)](https://meet.google.com/ufs-hgvi-oni)<br>* Metrics Project Meeting: [Mondays at 12:00 ET (East Time) (weekly)](https://meet.google.com/efp-yipi-ibj)<br>* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/kdy-sqyf-rud)<br>* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time) (weekly)](https://meet.google.com/ngp-npcx-nws)<br>
+|[Services](sig-services/README.md)|services|* [Tom Coufal](https://github.com/tumido), Red Hat<br>||* Regular SIG Meeting: [Thursdays at 14:00 UTC (weekly)](https://meet.google.com/qhw-vgww-pdu)<br>
 
 ### Working Groups
 

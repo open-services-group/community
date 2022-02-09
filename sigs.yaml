@@ -23,6 +23,12 @@ sigs:
     frequency: bi-weekly
     url: https://meet.google.com/ufs-hgvi-oni
     archive_url: https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit
+  - description: Metrics Project Meeting
+    day: Monday
+    time: "12:00"
+    tz: ET (East Time)
+    frequency: weekly
+    url: https://meet.google.com/efp-yipi-ibj
   - description: OS-Climate Project Meeting
     day: Thursday
     time: "11:00"
@@ -42,6 +48,10 @@ sigs:
       github: michaelclifford
       name: Michael Clifford
   subprojects:
+  - name: Metrics
+    description: '[Described below](#metrics)'
+    owners:
+    - https://github.com/open-services-group/metrics/blob/main/OWNERS
   - name: OS-Climate
     description: '[Described below](#os-climate)'
     owners:
