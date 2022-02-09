@@ -19,8 +19,8 @@ The [charter](charter.md) defines the scope and governance of the BYON build pip
 
 ## Organizers
 
+* Oindrilla Chatterjee (**[@oindrillac](https://github.com/oindrillac)**), Red Hat
 * Francesco Murdaca (**[@pacospace](https://github.com/pacospace)**), Red Hat
-* Trevor McKay (**[@tmckayus](https://github.com/tmckayus)**), Red Hat
 
 ## Contact
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/wg%2Fbyon-build-pipelines)

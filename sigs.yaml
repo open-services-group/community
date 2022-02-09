@@ -104,11 +104,11 @@ workinggroups:
   label: byon-build-pipelines
   leadership:
     chairs:
+    - github: oindrillac
+      name: Oindrilla Chatterjee
+      company: Red Hat
     - github: pacospace
       name: Francesco Murdaca
-      company: Red Hat
-    - github: tmckayus
-      name: Trevor McKay
       company: Red Hat
   meetings:
   - description: Regular WG Meeting

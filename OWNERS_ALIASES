@@ -5,8 +5,8 @@ aliases:
   sig-services-leads:
     - tumido
   wg-byon-build-pipelines-leads:
+    - oindrillac
     - pacospace
-    - tmckayus
   wg-devsecops-leads:
     - HumairAK
     - harshad16
