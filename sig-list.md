@@ -41,7 +41,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Stakeholder SIGs |Organizers | Contact | Meetings |
 |------|------------------|-----------|---------|----------|
-|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Francesco Murdaca](https://github.com/pacospace), Red Hat<br>* [Trevor McKay](https://github.com/tmckayus), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qkt-yacp-wzm)<br>
+|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Oindrilla Chatterjee](https://github.com/oindrillac), Red Hat<br>* [Francesco Murdaca](https://github.com/pacospace), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qkt-yacp-wzm)<br>
 |[DevSecOps](wg-devsecops/README.md)||* [Humair Khan](https://github.com/HumairAK), Red Hat<br>* [Harshad Reddy Nalla](https://github.com/harshad16), Red Hat<br>|* Regular WG Meeting: [Tuesdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/zsu-avba-enx)<br>
 
 ### Committees
