@@ -7,15 +7,15 @@ to address/mention subsets of people within our organization on GitHub.
 
 ## Context and Problem Statement
 
-As we want to conduct code reviews, we want to implemente a reviewer-approver pattern (as seen in Kubernetes, Operate-First, or Thoth Station),
-therefore we need to maintain theres roles for each repository we maintain on GitHub. As Prow (specifically peribolos)
+As we want to conduct code reviews, we want to implement a reviewer-approver pattern (as seen in Kubernetes, Operate-First, or Thoth Station),
+therefore we need to maintain these roles for each repository we maintain on GitHub. As Prow (specifically peribolos)
 is our janitor, we need to declare the roles within each repository and/or within the organization. As we also want to
 address subsets of org members, we need to declare GitHub teams too. Both (OWNERS, OWNER_ALIASES and Teams) might be
 used in a mix and might be hard to keep synchronized.
 
 ## Decision Drivers <!-- optional -->
 
-* clarity and easy tracability/understandablity
+* clarity and easy traceability/understandablity
 * minimal points of configuration/declaration/documentation
 
 ## Considered Options
