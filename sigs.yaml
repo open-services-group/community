@@ -62,6 +62,9 @@ sigs:
   label: services
   leadership:
     chairs:
+    - github: Shreyanand
+      name: Shrey Anand
+      company: Red Hat
     - github: tumido
       name: Tom Coufal
       company: Red Hat

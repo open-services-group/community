@@ -22,6 +22,7 @@ The [charter](charter.md) defines the scope and governance of the Services Speci
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
+* Shrey Anand (**[@Shreyanand](https://github.com/Shreyanand)**), Red Hat
 * Tom Coufal (**[@tumido](https://github.com/tumido)**), Red Hat
 
 ## Contact
