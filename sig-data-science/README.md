@@ -17,7 +17,8 @@ The [charter](charter.md) defines the scope and governance of the Data Science S
 ## Meetings
 * Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](https://meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
-Metrics Project Meeting: [Mondays at 12:00 ET (East Time)](https://meet.google.com/efp-yipi-ibj) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
+* Metrics Project Meeting: [Mondays at 12:00 ET (East Time)](https://meet.google.com/efp-yipi-ibj) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1lZ9863luHo_LoXGz27QrMuMxVWiinfLm7N5fJP4OInE/edit).
 * OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time)](https://meet.google.com/kdy-sqyf-rud) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1PZTRTrU68LZXUy9GgKCp38KpVyG4lrN5Cw8Zv9pGmjE/edit).
 * Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](https://meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
