@@ -25,6 +25,7 @@ of SIGs, WGs and UGs.
 
 | Community Group            | Steering Committee Liaison |
 | -------------------------- | -------------------------- |
+| [SIG Community Experience](sig-community-experience/README.md) | Thorsten Schwesig (**[@schwesig](https://github.com/schwesig)**) |
 | [SIG Data Science](sig-data-science/README.md) | Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**) |
 | [SIG Services](sig-services/README.md) | Tom Coufal (**[@tumido](https://github.com/tumido)**) |
 <!-- BEGIN CUSTOM CONTENT -->
