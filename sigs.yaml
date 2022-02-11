@@ -29,6 +29,7 @@ sigs:
     tz: ET (East Time)
     frequency: weekly
     url: https://meet.google.com/efp-yipi-ibj
+    archive_url: https://docs.google.com/document/d/1lZ9863luHo_LoXGz27QrMuMxVWiinfLm7N5fJP4OInE/edit
   - description: OS-Climate Project Meeting
     day: Thursday
     time: "11:00"
