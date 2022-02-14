@@ -168,6 +168,7 @@ workinggroups:
     tz: ET (East Time)
     frequency: weekly
     url: https://meet.google.com/qkt-yacp-wzm
+    archive_url: https://docs.google.com/document/d/1i1ET2HHqWry-0NK72iDRCEGEoyO7CPzmwOBjr437CVI/edit#
   contact: {}
 - dir: wg-devsecops
   name: DevSecOps

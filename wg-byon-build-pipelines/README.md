@@ -16,6 +16,7 @@ The [charter](charter.md) defines the scope and governance of the BYON build pip
 
 ## Meetings
 * Regular WG Meeting: [Wednesdays at 10:00 ET (East Time)](https://meet.google.com/qkt-yacp-wzm) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1i1ET2HHqWry-0NK72iDRCEGEoyO7CPzmwOBjr437CVI/edit#).
 
 ## Organizers
 
@@ -25,5 +26,11 @@ The [charter](charter.md) defines the scope and governance of the BYON build pip
 ## Contact
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/wg%2Fbyon-build-pipelines)
 <!-- BEGIN CUSTOM CONTENT -->
+
+## References
+
+* [Repository](https://github.com/open-services-group/byon)
+* [Project Board](https://github.com/orgs/open-services-group/projects/3/views/1)
+* [Master Deck](https://docs.google.com/presentation/d/1GUMwCrxwGz4XJu72GUP2NG136PcKA-BF60oIezGSHSo/edit#slide=id.g547716335e_0_220)
 
 <!-- END CUSTOM CONTENT -->
