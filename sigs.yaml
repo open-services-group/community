@@ -55,7 +55,7 @@ sigs:
   meetings:
   - description: Data Science SIG meeting
     day: Wednesday
-    time: "10:00"
+    time: "11:00"
     tz: ET (East Time)
     frequency: bi-weekly
     url: https://meet.google.com/ufs-hgvi-oni
