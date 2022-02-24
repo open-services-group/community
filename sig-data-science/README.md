@@ -56,7 +56,8 @@ The following [subprojects][subproject-definition] are owned by sig-data-science
 - **Owners:**
   - [aicoe-aiops/operate-first-data-science-community](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS)
 
-[subproject-definition]: https://github.com/open-services-group/community/blob/master/governance.md#subprojects
+[subproject-definition]: https://github.com/open-services-group/community/blob/main/governance.md#subprojects
+[subproject-lifecycle]: https://github.com/open-services-group/community/blob/main/subproject-lifecycle.md
 <!-- BEGIN CUSTOM CONTENT -->
 
 # Details about SIG Data Science sub-projects
