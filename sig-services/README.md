@@ -33,19 +33,9 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-services:
-### AICoE-CD
+### Peribolos as a service
 - **Owners:**
-  - [AICoE/aicoe-cd](https://github.com/AICoE/aicoe-cd/blob/master/OWNERS)
-### AICoE-CI
-- **Owners:**
-  - [AICoE/aicoe-ci](https://github.com/AICoE/aicoe-ci/blob/master/OWNERS)
-### Project Meteor
-- **Owners:**
-  - [AICoE/meteor-operator](https://github.com/AICoE/meteor-operator/blob/main/OWNERS)
-  - [AICoE/meteor](https://github.com/AICoE/meteor/blob/main/OWNERS)
-### Project Thoth
-- **Owners:**
-  - [thoth-station/core](https://github.com/thoth-station/core/blob/master/OWNERS)
+  - [open-services-group/peribolos-as-a-service](https://github.com/open-services-group/peribolos-as-a-service/blob/main/OWNERS)
 ### Seraph
 - **Owners:**
   - [AICoE/seraph](https://github.com/AICoE/seraph/blob/main/OWNERS)

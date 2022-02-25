@@ -128,19 +128,9 @@ sigs:
       github: tumido
       name: Tom Coufal
   subprojects:
-  - name: AICoE-CD
+  - name: Peribolos as a service
     owners:
-    - https://raw.githubusercontent.com/AICoE/aicoe-cd/master/OWNERS
-  - name: AICoE-CI
-    owners:
-    - https://raw.githubusercontent.com/AICoE/aicoe-ci/master/OWNERS
-  - name: Project Meteor
-    owners:
-    - https://raw.githubusercontent.com/AICoE/meteor-operator/main/OWNERS
-    - https://raw.githubusercontent.com/AICoE/meteor/main/OWNERS
-  - name: Project Thoth
-    owners:
-    - https://raw.githubusercontent.com/thoth-station/core/master/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/peribolos-as-a-service/main/OWNERS
   - name: Seraph
     owners:
     - https://raw.githubusercontent.com/AICoE/seraph/main/OWNERS

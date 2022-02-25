@@ -58,6 +58,10 @@ orgs:
         description: Metrics project repository.
         has_projects: false
         has_wiki: false
+      peribolos-as-a-service:
+        description: Declarative GitHub Organization management via Peribolos as a service
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
@@ -132,3 +136,11 @@ orgs:
         privacy: closed
         repos:
           metrics: admin
+      sp-peribolos-maintainers:
+        description: Maintainers Team for the Peribolos-as-a-service sub-project
+        maintainers:
+          - tumido
+          - Shreyanand
+        privacy: closed
+        repos:
+          peribolos-as-a-service: admin
