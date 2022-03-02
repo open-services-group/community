@@ -43,7 +43,8 @@ The following [subprojects][subproject-definition] are owned by sig-community-ex
 - **Owners:**
   - [open-services-group/community/sig-community-experience](https://github.com/open-services-group/community/blob/main/sig-community-experience/OWNERS)
 
-[subproject-definition]: https://github.com/open-services-group/community/blob/master/governance.md#subprojects
+[subproject-definition]: https://github.com/open-services-group/community/blob/main/governance.md#subprojects
+[subproject-lifecycle]: https://github.com/open-services-group/community/blob/main/subproject-lifecycle.md
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
