@@ -114,6 +114,7 @@ orgs:
         description: Leads Team for BYON project
         maintainers:
           - pacospace
+          - oindrillac
         members:
         privacy: closed
         repos:
