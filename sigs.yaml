@@ -117,11 +117,17 @@ sigs:
       name: Tom Coufal
       company: Red Hat
   meetings:
+  - description: Peribolos-as-a-service planning meeting
+    day: Thursday
+    time: "14:00"
+    tz: UTC
+    frequency: bi-weekly (alternates with Regular SIG Meeting)
+    url: https://meet.google.com/haz-qamk-qci
   - description: Regular SIG Meeting
     day: Thursday
     time: "14:00"
     tz: UTC
-    frequency: weekly
+    frequency: bi-weekly
     url: https://meet.google.com/qhw-vgww-pdu
   contact:
     liaison:
