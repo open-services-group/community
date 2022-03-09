@@ -15,7 +15,8 @@ Oversee, steer and organize involvement and commitment of new and existing servi
 The [charter](charter.md) defines the scope and governance of the Services Special Interest Group.
 
 ## Meetings
-* Regular SIG Meeting: [Thursdays at 14:00 UTC](https://meet.google.com/qhw-vgww-pdu) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=UTC).
+* Peribolos-as-a-service planning meeting: [Thursdays at 14:00 UTC](https://meet.google.com/haz-qamk-qci) (bi-weekly (alternates with Regular SIG Meeting)). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=UTC).
+* Regular SIG Meeting: [Thursdays at 14:00 UTC](https://meet.google.com/qhw-vgww-pdu) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=UTC).
 
 ## Leadership
 
