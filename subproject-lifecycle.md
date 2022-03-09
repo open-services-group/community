@@ -10,6 +10,8 @@ We recognize 2 options how a subproject can be created in OSG. Either this is a 
    - Either get a verbal agreement on a SIG meeting, documented in SIG meeting notes
    - Or file an issue in open-services-group/community with subproject details and get a SIG lead approval on the issue
 2. Define and declare scope of the subproject and end goal
+3. Identify the GitHub repositories owned by the new subproject. See the Process details below about how to create new repositories if appropriate
+4. Declare project owners in repository [OWNERS file](adr/0000-use-OWNERS-rather-than-github-teams.md)
 
 ### Import a workstream to this organization as a subproject
 
@@ -17,8 +19,8 @@ We recognize 2 options how a subproject can be created in OSG. Either this is a 
    - Either get a verbal agreement on a SIG meeting, documented in SIG meeting notes
    - Or file an issue in open-services-group/community with subproject details and get a SIG lead approval on the issue
 2. Communicate the transfer to all the current owners of the workstreams
-3. There must be existing GitHub repository for the workstream
-4. Declare project owners in [OWNERS file](adr/0000-use-OWNERS-rather-than-github-teams.md)
+3. There must be at least one existing GitHub repository for the workstream
+4. Declare project owners in repository [OWNERS file](adr/0000-use-OWNERS-rather-than-github-teams.md)
 
 ## Process
 
@@ -28,7 +30,16 @@ We recognize 2 options how a subproject can be created in OSG. Either this is a 
 2. Checkout a feature branch named after your project
 3. Update [`sigs.yaml`](./sigs.yaml) file with following:
     1. Locate the SIG entry in `sigs` top level key, it has a property `dir: sig-<NAME>`.
-    2. If your subproject has regular meetings, update the `.meetings` section with:
+    2. Add your subproject to the `.subprojects` section:
+
+       ```yaml
+       subprojects:
+         - name: <NAME>
+           owners:
+             - https://raw.githubusercontent.com/<ORG>/<REPO>/main/OWNERS  # Do not panic if the repository doesn't exist yet
+       ```
+
+    3. If your subproject has regular meetings, add a `.meetings` section for the subproject with:
 
        ```yaml
        meetings:
@@ -38,16 +49,9 @@ We recognize 2 options how a subproject can be created in OSG. Either this is a 
            tz: "[UTC|ET (East Time)|CET (Central Europe Time)|...]"
            frequency: "[weekly|bi-weekly]"
            url: https://meet.google.com/...
+           archive_url: https://docs...
        ```
 
-    3. Add your subproject to the `.subprojects` section:
-
-       ```yaml
-       subprojects:
-         - name: <NAME>
-           owners:
-             - https://raw.githubusercontent.com/<ORG>/<REPO>/main/OWNERS  # Do not panic if the repository doesn't exist yet
-       ```
 
 4. Update [`github-config.yaml`](./github-config.yaml) file:
     1. If you are creating a brand new subproject, please initialize a new repository as:
