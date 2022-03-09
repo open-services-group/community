@@ -14,6 +14,12 @@ default:
       target: both
       prowPlugin: label
       addedBy: anyone
+    - color: d2b48c
+      description: Categorizes an issue or PR as relevant to WG DevSecOps
+      name: wg/devsecops
+      target: both
+      prowPlugin: label
+      addedBy: anyone
 
     - color: c0ff4a
       description: Denotes an issue or PR intended to be handled by the steering committee.
@@ -21,6 +27,26 @@ default:
       target: both
       prowPlugin: label
       addedBy: anyone
+
+    - color: fef2c0
+      description: Denotes an issue or PR relevant to SIG Community Experience.
+      name: sig/community-experience
+      target: both
+      prowPlugin: label
+      addedBy: anyone
+    - color: fef2c0
+      description: Denotes an issue or PR relevant to SIG Data Science.
+      name: sig/data-science
+      target: both
+      prowPlugin: label
+      addedBy: anyone
+    - color: fef2c0
+      description: Denotes an issue or PR relevant to SIG Services.
+      name: sig/services
+      target: both
+      prowPlugin: label
+      addedBy: anyone
+
     - color: ff9695
       description: This is an Issue or PR someone want to give a demo or request a demo.
       name: kind/demo
@@ -295,6 +321,23 @@ default:
       addedBy: humans
 
 repos:
+  open-services-group/community:
+    labels:
+      - color: c5991f
+        description: Issues or PRs related to Communication
+        name: area/communication
+        target: both
+        addedBy: label
+      - color: 1D76DB
+        description: Issues or PRs related to Metrics
+        name: area/metrics
+        target: both
+        addedBy: label
+      - color: 636D81
+        description: Issues or PRs related to Org Governance
+        name: area/governance
+        target: both
+        addedBy: label
   open-services-group/okr:
     labels:
       - color: c5991f
