@@ -3,6 +3,8 @@ orgs:
     admins:
       - durandom
       - goern
+      - tumido
+      - Shreyanand
       - sesheta
     billing_email: goern@redhat.com
     company: "Red Hat, Inc."
@@ -32,10 +34,8 @@ orgs:
       - pacospace
       - SamoKopecky
       - schwesig
-      - Shreyanand
       - shreekarSS
       - suppathak
-      - tumido
       - xtuchyna
     members_can_create_repositories: false
     name: Open Services Group
