@@ -4,11 +4,11 @@ persona: service consumer, service provider/owner
 phase: service-operational
 ---
 
-This requirement states that a service should have a defined contract duration. Contract duration states the start and the end date of the subscription to the service or that the subscription doesn't have an end date.
+This requirement states that a service should have a defined contract duration. Contract duration states the start and the end of the subscription to the service or the conditions under which a subscription is terminated.
 
-If the contract duration states the end date of the subscription it should also state whether the subscription can be extended. If it can, it should also state if the subscription is going to auto extend without the consumers acknowledgement.
+If the contract duration states the end date of the subscription it should also state whether the subscription can be extended. If it can, it should also state if the subscription is going to auto extend without the consumers explicit acknowledgement.
 
-It should also state under what circumstances can the service provider involuntarily unsubscribe the consumer (e. g., breach of Terms & Conditions) from the service. Similarly the service consumer should also be able end the service subscription before the end date (if there is one) on his own just by unsubscribing from the service.
+It should also state under what circumstances the service provider can involuntarily terminate the consumer's subscription (e. g., breach of Terms and Conditions). Additionally the service consumer should be advised how to end the service subscription on his own just at any time, especially in a case when the contract specifies a distinct end date of a subscription and what terms apply in such scenario.
 
 ## Requirements
 
@@ -16,9 +16,11 @@ It should also state under what circumstances can the service provider involunta
 - Define cases when the consumer will be involuntarily unsubscribed from the service
 - Define that the consumer can unsubscribe from the service on his own at any time
 - Define whether the service subscription can be extended and whether it auto extends
+- Contract duration is not a simple link to lengthy Terms and Conditions document but rather a simple list that links back to the Terms and Conditions
+- Contract duration is not a marketing or layer material. That means it is worded accordingly to the target audience -- users. It is understandable to the user.
 
 ## Reasoning
 
-Defining a contract duration brings transparency to booth the consumer and the provider and creates a clear understanding of what the subscription duration is and rules which the consumer should follow to stay subscribed to the service.
+Defining a contract duration brings transparency to booth the consumer and the provider and creates a clear understanding of what the subscription duration is and rules which the consumer should follow to stay subscribed to the service as well as how to leave the service.
 
 A well defined contract duration also mitigates the risk of any misunderstandings between the consumer and the provider which may otherwise lead to a conflict.
