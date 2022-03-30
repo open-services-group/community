@@ -17,10 +17,10 @@ It should also state under what circumstances the service provider can involunta
 - Define that the consumer can unsubscribe from the service on his own at any time
 - Define whether the service subscription can be extended and whether it auto extends
 - Contract duration is not a simple link to lengthy Terms and Conditions document but rather a simple list that links back to the Terms and Conditions
-- Contract duration is not a marketing or layer material. That means it is worded accordingly to the target audience -- users. It is understandable to the user.
+- Contract duration is not a marketing or layer material. That means it is worded accordingly to the target audience -- users. It should be understandable to the users.
 
 ## Reasoning
 
-Defining a contract duration brings transparency to booth the consumer and the provider and creates a clear understanding of what the subscription duration is and rules which the consumer should follow to stay subscribed to the service as well as how to leave the service.
+Defining a contract duration manages expectations of both the service consumer and the provider transparently. It specifies the subscription duration, and the rules that the consumer should follow to stay subscribed and how to leave the service.
 
 A well defined contract duration also mitigates the risk of any misunderstandings between the consumer and the provider which may otherwise lead to a conflict.
