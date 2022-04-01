@@ -16,7 +16,7 @@ It states the circumstances when the service provider can involuntarily terminat
 - Define cases when the consumer will be involuntarily unsubscribed from the service
 - Define if and how the consumer can unsubscribe from the service on his own at any time
 - Define whether the service subscription can be extended and whether it auto extends
-- Contract duration is not a marketing or lawyer material. That means it is worded accordingly to the target audience - users. It should be easy to read and understandable.
+- Contract duration is not a marketing or lawyer material. That means it is worded accordingly to the target audience - users. It should be easy to read and understand.
 
 ## Reasoning
 
