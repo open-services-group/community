@@ -1,7 +1,7 @@
 # Name of the Group/Governance Entity
 
 ## Meta Information
-### Links, Resources, etc
+<!-- Contains a list of relevant links and resources -->
 
 ## Date & Time | Title in Calendar
 
