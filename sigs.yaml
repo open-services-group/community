@@ -89,7 +89,7 @@ sigs:
   - name: Metrics
     description: '[Described below](#metrics)'
     owners:
-    - https://github.com/open-services-group/metrics/blob/main/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/metrics/main/OWNERS
   - name: OS-Climate
     description: '[Described below](#os-climate)'
     owners:
@@ -100,7 +100,7 @@ sigs:
   - name: Operate First Data Science Community
     description: '[Described below](#operate-first-data-science-community)'
     owners:
-    - https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS
+    - https://raw.githubusercontent.com/aicoe-aiops/operate-first-data-science-community/main/OWNERS
 - dir: sig-services
   name: Services
   mission_statement: >
