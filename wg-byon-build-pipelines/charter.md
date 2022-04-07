@@ -2,7 +2,14 @@
 
 ## Scope
 
-The goal of this working group is to create a service that implements the Bring Your Own Notebook (BYON) MVP in the context of Open Data Hub (ODH).
+The goal of this working group is to create a service that implements the Bring Your Own Notebook (BYON) MVP in the
+context of Open Data Hub (ODH). This includes:
+
+1. Building ODH Notebook container images from GitHub-hosted repositories
+2. Validating such images and integrating them into ODH
+3. extensions of the ODH dashboard
+4. user acceptance tests for these features
+5. documentation and guidelines on how to create and maintainer suche GitHub-hosted repositories
 
 ### In scope
 

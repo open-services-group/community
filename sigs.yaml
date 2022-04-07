@@ -154,9 +154,6 @@ workinggroups:
     - github: oindrillac
       name: Oindrilla Chatterjee
       company: Red Hat
-    - github: pacospace
-      name: Francesco Murdaca
-      company: Red Hat
   meetings:
   - description: Regular WG Meeting
     day: Wednesday
