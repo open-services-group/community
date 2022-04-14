@@ -14,6 +14,10 @@ aliases:
   wg-devsecops-leads:
     - HumairAK
     - harshad16
+  wg-devfail-leads:
+    - dmick
+    - erikerlandson
+    - michaelclifford
   committee-steering:
     - durandom
     - goern

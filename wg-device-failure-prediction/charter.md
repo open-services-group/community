@@ -41,12 +41,10 @@ The artifacts the group is supposed to deliver include:
 
 ## Stakeholders
 
-* Dan Mick (Ceph Storage)
-* Yaarit Hatuka (Emerging Technologies)
-* Yehuda Sadeh-Weinraub (Ceph Storage)
-* Erik Erlandson (Open Services Group)
-* Michael Clifford (Open Services Group)
-* Michael Renella (Seagate)
+* SIG Data Science
+* Emerging Technologies Cloud Storage group
+* Open Services Group
+* Seagate
 
 ## Disband criteria
 

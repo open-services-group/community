@@ -121,6 +121,13 @@ orgs:
         privacy: closed
         repos:
           byon: admin
+      wg-devfail-leads:
+        description: Leads Team for Device Failure Prediction WG
+        maintainers:
+          - dmick
+          - erikerlandson
+          - michaelclifford
+        privacy: closed
       wg-devsecops-leads:
         description: Leads Team for DevSecOps
         maintainers:

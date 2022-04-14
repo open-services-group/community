@@ -190,6 +190,21 @@ workinggroups:
     frequency: weekly
     url: https://meet.google.com/zsu-avba-enx
   contact: {}
+- dir: wg-device-failure-prediction
+  name: Device Failure Prediction
+  mission_statement: >
+    Collect and model data from storage devices about device health, and
+    try to model and predict failure
+
+  charter_link: charter.md
+  label: device-failure-prediction
+  leadership:
+    chairs:
+    - github: dmick
+      name: Dan Mick
+      company: Red Hat
+  meetings:
+  contact: {}
 usergroups: []
 committees:
 - dir: committee-steering
