@@ -38,6 +38,7 @@ orgs:
       - shreekarSS
       - suppathak
       - xtuchyna
+      - dmick
     members_can_create_repositories: false
     name: Open Services Group
     repos:
