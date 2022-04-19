@@ -109,6 +109,7 @@ orgs:
         maintainers:
           - durandom
           - goern
+          - schwesig
         members:
         privacy: closed
         repos:
