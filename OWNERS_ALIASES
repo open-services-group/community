@@ -10,7 +10,6 @@ aliases:
     - tumido
   wg-byon-build-pipelines-leads:
     - oindrillac
-    - pacospace
   wg-devsecops-leads:
     - HumairAK
     - harshad16
