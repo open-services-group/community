@@ -26,10 +26,4 @@ The [charter](charter.md) defines the scope and governance of the BYON build pip
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/wg%2Fbyon-build-pipelines)
 <!-- BEGIN CUSTOM CONTENT -->
 
-## References
-
-* [Repository](https://github.com/open-services-group/byon)
-* [Project Board](https://github.com/orgs/open-services-group/projects/3/views/1)
-* [Master Deck](https://docs.google.com/presentation/d/1GUMwCrxwGz4XJu72GUP2NG136PcKA-BF60oIezGSHSo/edit#slide=id.g547716335e_0_220)
-
 <!-- END CUSTOM CONTENT -->

@@ -60,27 +60,4 @@ The following [subprojects][subproject-definition] are owned by sig-data-science
 [subproject-lifecycle]: https://github.com/open-services-group/community/blob/main/subproject-lifecycle.md
 <!-- BEGIN CUSTOM CONTENT -->
 
-# Details about SIG Data Science sub-projects
-
-## Operate First Data Science Community
-
-This subproject is responsible for organizing, hosting, promoting and growing the Operate First Data Science Community and its associated meetup.
-
-The  Operate First Data Science Community aims to embrace the multidisciplinary nature of the current state of AI operations and cloud infrastructure by discussing technical topics relevant to data scientists, software developers, DevOps professionals, statisticians, and the intersection of their work, all in an open and collaborative public platform.
-
-[Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
-
-## OS-Climate
-
-This subproject is responsible for supporting the data science efforts of the OS-Climate community.
-
-
-[OS-Climate Github Organization](https://github.com/os-climate)
-
-## Metrics
-
-This subproject is responsible for measuring and tracking the progress and contribution made across the Open Services group.
-
-[Project Repository](https://github.com/open-services-group/metrics)
-
 <!-- END CUSTOM CONTENT -->

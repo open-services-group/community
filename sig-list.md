@@ -42,7 +42,8 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Stakeholder SIGs |Organizers | Contact | Meetings |
 |------|------------------|-----------|---------|----------|
-|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Oindrilla Chatterjee](https://github.com/oindrillac), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qxw-jrwf-htz)<br>
+|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Oindrilla Chatterjee](https://github.com/oindrillac), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qkt-yacp-wzm)<br>
+|[Device Failure Prediction](wg-device-failure-prediction/README.md)||* [Dan Mick](https://github.com/dmick), Red Hat<br>|
 |[DevSecOps](wg-devsecops/README.md)||* [Humair Khan](https://github.com/HumairAK), Red Hat<br>* [Harshad Reddy Nalla](https://github.com/harshad16), Red Hat<br>|* Regular WG Meeting: [Tuesdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/zsu-avba-enx)<br>
 
 ### Committees

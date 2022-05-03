@@ -10,13 +10,11 @@ aliases:
     - tumido
   wg-byon-build-pipelines-leads:
     - oindrillac
+  wg-device-failure-prediction-leads:
+    - dmick
   wg-devsecops-leads:
     - HumairAK
     - harshad16
-  wg-devfail-leads:
-    - dmick
-    - erikerlandson
-    - michaelclifford
   committee-steering:
     - durandom
     - goern
