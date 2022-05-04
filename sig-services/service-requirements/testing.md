@@ -28,6 +28,3 @@ Optional tests to include:
 
 The range of tests described ensure that the service will not fail in most user interactions. The testing areas chosen highlight use cases where
 possible errors or outages may occur opposed to prioritizing unit testing.
-
-
-
