@@ -81,6 +81,7 @@ podman run --rm -v ./:/community:z \
 
 | Name | Description | Added By | Prow Plugin |
 | ---- | ----------- | -------- | --- |
+| <a id="epic" href="#epic">`epic`</a> | Tags an issue as an Epic.| humans | |
 | <a id="tide/merge-blocker" href="#tide/merge-blocker">`tide/merge-blocker`</a> | Denotes an issue that blocks the tide merge queue for a branch while it is open. <br><br> This was previously `merge-blocker`, | humans | |
 
 ## Labels that apply to all repos, only for PRs

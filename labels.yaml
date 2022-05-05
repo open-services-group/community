@@ -320,6 +320,12 @@ default:
       target: both
       addedBy: humans
 
+    - color: 4660f9
+      description: Tags an issue as an Epic.
+      name: epic
+      target: issues
+      addedBy: humans
+
 repos:
   open-services-group/community:
     labels:
