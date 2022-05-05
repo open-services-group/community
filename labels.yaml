@@ -366,3 +366,15 @@ repos:
         name: area/project-thoth
         target: both
         addedBy: label
+  open-services-group/peribolos-as-a-service:
+    labels:
+      - color: 76D006
+        description: Automated release trigger
+        name: kind/release
+        target: both
+        addedBy: humans
+      - color: 7C1D9E
+        description: Automated promotion of deployment between environments
+        name: kind/promote
+        target: both
+        addedBy: humans
