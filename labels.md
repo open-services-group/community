@@ -115,6 +115,7 @@ podman run --rm -v ./:/community:z \
 | <a id="area/communication" href="#area/communication">`area/communication`</a> | Issues or PRs related to Communication| label | |
 | <a id="area/governance" href="#area/governance">`area/governance`</a> | Issues or PRs related to Org Governance| label | |
 | <a id="area/metrics" href="#area/metrics">`area/metrics`</a> | Issues or PRs related to Metrics| label | |
+| <a id="kind/guideline" href="#kind/guideline">`kind/guideline`</a> | A guideline for services| anyone | |
 
 ## Labels that apply to open-services-group/okr, for both issues and PRs
 
