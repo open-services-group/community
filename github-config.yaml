@@ -64,6 +64,10 @@ orgs:
         description: Declarative GitHub Organization management via Peribolos as a service
         has_projects: false
         has_wiki: false
+      probot-extensions:
+        description: Extensions to Probot App when run as a service
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
@@ -156,3 +160,4 @@ orgs:
         privacy: closed
         repos:
           peribolos-as-a-service: admin
+          probot-extensions: admin
