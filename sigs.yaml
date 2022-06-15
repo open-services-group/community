@@ -15,27 +15,21 @@ sigs:
       name: Thorsten Schwesig
       company: Red Hat
   meetings:
-  - description: Community Experience SIG meeting
+  - description: SIG Community Experience Meeting
     day: Wednesday
-    time: "17:00"
-    tz: CET (Central Europe Time)
-    frequency: bi-weekly
+    time: "11:00"
+    tz: ET (East Time)
+    frequency: monthly
     url: https://meet.google.com/tig-yuxq-fyh
-    archive_url: https://docs.google.com/document/d/1t47S9JUZbI3q0_LgVtaBKYsaGqnOP6YSG6x8XaBhiew/edit
+    archive_url: https://docs.google.com/document/d/1t47S9JUZbI3q0_LgVtaBKYsaGqnOP6YSG6x8XaBhiew
   contact:
     liaison:
       github: schwesig
       name: Thorsten Schwesig
   subprojects:
-  - name: ComCom
+  - name: not available
     owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
-  - name: GovOrg
-    owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
-  - name: Metrics Strategic
-    owners:
-    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
+    - https://raw.githubusercontent.com/community/sig-community-experience/master/OWNERS
 - dir: sig-data-science
   name: Data Science
   mission_statement: >
