@@ -157,6 +157,21 @@ workinggroups:
     url: https://meet.google.com/qkt-yacp-wzm
     archive_url: https://docs.google.com/document/d/1i1ET2HHqWry-0NK72iDRCEGEoyO7CPzmwOBjr437CVI/edit#
   contact: {}
+- dir: wg-device-failure-prediction
+  name: Device Failure Prediction
+  mission_statement: >
+    Collect and model data from storage devices about device health, and try to model
+    and predict failure
+
+  charter_link: charter.md
+  label: device-failure-prediction
+  leadership:
+    chairs:
+    - github: dmick
+      name: Dan Mick
+      company: Red Hat
+  meetings: []
+  contact: {}
 - dir: wg-devsecops
   name: DevSecOps
   mission_statement: >
@@ -180,21 +195,6 @@ workinggroups:
     tz: ET (East Time)
     frequency: weekly
     url: https://meet.google.com/zsu-avba-enx
-  contact: {}
-- dir: wg-device-failure-prediction
-  name: Device Failure Prediction
-  mission_statement: >
-    Collect and model data from storage devices about device health, and
-    try to model and predict failure
-
-  charter_link: charter.md
-  label: device-failure-prediction
-  leadership:
-    chairs:
-    - github: dmick
-      name: Dan Mick
-      company: Red Hat
-  meetings:
   contact: {}
 usergroups: []
 committees:

@@ -14,8 +14,8 @@ Our goal is to nurture a sustainable community by stabilizing and growing it thr
 The [charter](charter.md) defines the scope and governance of the Community Experience Special Interest Group.
 
 ## Meetings
-* Community Experience SIG meeting: [Wednesdays at 17:00 CET (Central Europe Time)](https://meet.google.com/tig-yuxq-fyh) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=17:00&tz=CET%20%28Central%20Europe%20Time%29).
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/1t47S9JUZbI3q0_LgVtaBKYsaGqnOP6YSG6x8XaBhiew/edit).
+* SIG Community Experience Meeting: [Wednesdays at 11:00 ET (East Time)](https://meet.google.com/tig-yuxq-fyh) (monthly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1t47S9JUZbI3q0_LgVtaBKYsaGqnOP6YSG6x8XaBhiew).
 
 ## Leadership
 
@@ -33,15 +33,9 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-community-experience:
-### ComCom
+### not available
 - **Owners:**
-  - [open-services-group/community/sig-community-experience](https://github.com/open-services-group/community/blob/main/sig-community-experience/OWNERS)
-### GovOrg
-- **Owners:**
-  - [open-services-group/community/sig-community-experience](https://github.com/open-services-group/community/blob/main/sig-community-experience/OWNERS)
-### Metrics Strategic
-- **Owners:**
-  - [open-services-group/community/sig-community-experience](https://github.com/open-services-group/community/blob/main/sig-community-experience/OWNERS)
+  - [community/sig-community-experience](https://github.com/community/sig-community-experience/blob/master/OWNERS)
 
 [subproject-definition]: https://github.com/open-services-group/community/blob/main/governance.md#subprojects
 [subproject-lifecycle]: https://github.com/open-services-group/community/blob/main/subproject-lifecycle.md
