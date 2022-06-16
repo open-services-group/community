@@ -34,7 +34,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-|[Community Experience](sig-community-experience/README.md)|community-experience|* [Pep Turró Mauri](https://github.com/codificat), Red Hat<br>* [Thorsten Schwesig](https://github.com/schwesig), Red Hat<br>||* Community Experience SIG meeting: [Wednesdays at 17:00 CET (Central Europe Time) (bi-weekly)](https://meet.google.com/tig-yuxq-fyh)<br>
+|[Community Experience](sig-community-experience/README.md)|community-experience|* [Pep Turró Mauri](https://github.com/codificat), Red Hat<br>* [Thorsten Schwesig](https://github.com/schwesig), Red Hat<br>||* SIG Community Experience Meeting: [Wednesdays at 11:00 ET (East Time) (monthly)](https://meet.google.com/tig-yuxq-fyh)<br>
 |[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Wednesdays at 11:00 ET (East Time) (bi-weekly)](https://meet.google.com/ufs-hgvi-oni)<br>* Metrics Project Meeting: [Mondays at 12:00 ET (East Time) (weekly)](https://meet.google.com/efp-yipi-ibj)<br>* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/kdy-sqyf-rud)<br>* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time) (weekly)](https://meet.google.com/ngp-npcx-nws)<br>
 |[Services](sig-services/README.md)|services|* [Shrey Anand](https://github.com/Shreyanand), Red Hat<br>* [Tom Coufal](https://github.com/tumido), Red Hat<br>||* Peribolos-as-a-service planning meeting: [Thursdays at 14:00 UTC (bi-weekly (alternates with Regular SIG Meeting))](https://meet.google.com/haz-qamk-qci)<br>* Regular SIG Meeting: [Thursdays at 14:00 UTC (bi-weekly)](https://meet.google.com/qhw-vgww-pdu)<br>
 
@@ -42,7 +42,8 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Stakeholder SIGs |Organizers | Contact | Meetings |
 |------|------------------|-----------|---------|----------|
-|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Oindrilla Chatterjee](https://github.com/oindrillac), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qxw-jrwf-htz)<br>
+|[BYON build pipelines](wg-byon-build-pipelines/README.md)||* [Oindrilla Chatterjee](https://github.com/oindrillac), Red Hat<br>|* Regular WG Meeting: [Wednesdays at 10:00 ET (East Time) (weekly)](https://meet.google.com/qkt-yacp-wzm)<br>
+|[Device Failure Prediction](wg-device-failure-prediction/README.md)||* [Dan Mick](https://github.com/dmick), Red Hat<br>|
 |[DevSecOps](wg-devsecops/README.md)||* [Humair Khan](https://github.com/HumairAK), Red Hat<br>* [Harshad Reddy Nalla](https://github.com/harshad16), Red Hat<br>|* Regular WG Meeting: [Tuesdays at 11:00 ET (East Time) (weekly)](https://meet.google.com/zsu-avba-enx)<br>
 
 ### Committees
