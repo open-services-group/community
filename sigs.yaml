@@ -29,7 +29,7 @@ sigs:
   subprojects:
   - name: not available
     owners:
-    - https://raw.githubusercontent.com/community/sig-community-experience/master/OWNERS
+    - https://raw.githubusercontent.com/open-services-group/community/main/sig-community-experience/OWNERS
 - dir: sig-data-science
   name: Data Science
   mission_statement: >
