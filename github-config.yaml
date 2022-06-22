@@ -68,6 +68,10 @@ orgs:
         description: Extensions to Probot App when run as a service
         has_projects: false
         has_wiki: false
+      probot-template:
+        description: Template for Probot on Kubernetes
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
@@ -161,3 +165,4 @@ orgs:
         repos:
           peribolos-as-a-service: admin
           probot-extensions: admin
+          probot-template: admin
