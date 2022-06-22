@@ -344,6 +344,11 @@ repos:
         name: area/governance
         target: both
         addedBy: label
+      - color: 0E8A16
+        description: A guideline for services
+        name: kind/guideline
+        target: both
+        addedBy: anyone
   open-services-group/okr:
     labels:
       - color: c5991f
