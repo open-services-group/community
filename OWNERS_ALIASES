@@ -3,8 +3,7 @@ aliases:
     - codificat
     - schwesig
   sig-data-science-leads:
-    - erikerlandson
-    - michaelclifford
+    - durandom
   sig-services-leads:
     - Shreyanand
     - tumido
@@ -18,7 +17,6 @@ aliases:
   committee-steering:
     - durandom
     - goern
-    - michaelclifford
     - schwesig
     - tumido
 ## BEGIN CUSTOM CONTENT

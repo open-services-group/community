@@ -21,7 +21,6 @@ The Steering Committee is the governing body of the Open Services Group, The Ste
 
 * Marcel Hild (**[@durandom](https://github.com/durandom)**), Red Hat
 * Christoph Görn (**[@goern](https://github.com/goern)**), Red Hat
-* Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**), Red Hat
 * Thorsten Schwesig (**[@schwesig](https://github.com/schwesig)**), Red Hat
 * Tom Coufal (**[@tumido](https://github.com/tumido)**), Red Hat
 

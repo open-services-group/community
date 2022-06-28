@@ -15,72 +15,31 @@ Covers all aspects of Data Science and Machine Learning as it pertains to the op
 The [charter](charter.md) defines the scope and governance of the Data Science Special Interest Group.
 
 ## Meetings
-* Data Science SIG meeting: [Wednesdays at 11:00 ET (East Time)](https://meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
+* Data Science SIG meeting: [Wednesdays at 11:00 ET (East Time)](https://meet.google.com/ufs-hgvi-oni) (quarterly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
-* Metrics Project Meeting: [Mondays at 12:00 ET (East Time)](https://meet.google.com/efp-yipi-ibj) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/1lZ9863luHo_LoXGz27QrMuMxVWiinfLm7N5fJP4OInE/edit).
-* OS-Climate Project Meeting: [Thursdays at 11:00 ET (East Time)](https://meet.google.com/kdy-sqyf-rud) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=ET%20%28East%20Time%29).
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/1PZTRTrU68LZXUy9GgKCp38KpVyG4lrN5Cw8Zv9pGmjE/edit).
-* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](https://meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/19_xPxfsazD6rJfe1aHNjVC9_bKpOfnepsifCZ4GBw8o/edit).
 
 ## Leadership
 
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
-* Erik Erlandson (**[@erikerlandson](https://github.com/erikerlandson)**), Red Hat
-* Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**), Red Hat
+* Marcel Hild (**[@durandom](https://github.com/durandom)**), Red Hat
 
 ## Contact
 - [Mailing list]()
 - [Open Community Issues/PRs](https://github.com/open-services-group/community/labels/sig%2Fdata-science)
-- Steering Committee Liaison: Michael Clifford (**[@michaelclifford](https://github.com/michaelclifford)**)
+- Steering Committee Liaison: Marcel Hild (**[@durandom](https://github.com/durandom)**)
 
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-data-science:
-### Metrics
-[Described below](#metrics)
+### example
+example subproject
 - **Owners:**
   - [open-services-group/metrics](https://github.com/open-services-group/metrics/blob/main/OWNERS)
-### OS-Climate
-[Described below](#os-climate)
-- **Owners:**
-  - [os-climate/aicoe-osc-demo](https://github.com/os-climate/aicoe-osc-demo/blob/master/OWNERS)
-  - [os-climate/data-platform-demo](https://github.com/os-climate/data-platform-demo/blob/master/OWNERS)
-  - [os-climate/osc-ingest-tools](https://github.com/os-climate/osc-ingest-tools/blob/main/OWNERS)
-  - [os-climate/osc-trino-acl-dsl](https://github.com/os-climate/osc-trino-acl-dsl/blob/main/OWNERS)
-### Operate First Data Science Community
-[Described below](#operate-first-data-science-community)
-- **Owners:**
-  - [aicoe-aiops/operate-first-data-science-community](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/OWNERS)
 
 [subproject-definition]: https://github.com/open-services-group/community/blob/main/governance.md#subprojects
 [subproject-lifecycle]: https://github.com/open-services-group/community/blob/main/subproject-lifecycle.md
 <!-- BEGIN CUSTOM CONTENT -->
-
-# Details about SIG Data Science sub-projects
-
-## Operate First Data Science Community
-
-This subproject is responsible for organizing, hosting, promoting and growing the Operate First Data Science Community and its associated meetup.
-
-The  Operate First Data Science Community aims to embrace the multidisciplinary nature of the current state of AI operations and cloud infrastructure by discussing technical topics relevant to data scientists, software developers, DevOps professionals, statisticians, and the intersection of their work, all in an open and collaborative public platform.
-
-[Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
-
-## OS-Climate
-
-This subproject is responsible for supporting the data science efforts of the OS-Climate community.
-
-
-[OS-Climate Github Organization](https://github.com/os-climate)
-
-## Metrics
-
-This subproject is responsible for measuring and tracking the progress and contribution made across the Open Services group.
-
-[Project Repository](https://github.com/open-services-group/metrics)
 
 <!-- END CUSTOM CONTENT -->
