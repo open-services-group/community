@@ -10,7 +10,6 @@
 - [Labels that apply to all repos, only for PRs](#labels-that-apply-to-all-repos-only-for-prs)
 - [Labels that apply to open-services-group/community, for both issues and PRs](#labels-that-apply-to-open-services-groupcommunity-for-both-issues-and-prs)
 - [Labels that apply to open-services-group/okr, for both issues and PRs](#labels-that-apply-to-open-services-groupokr-for-both-issues-and-prs)
-- [Labels that apply to open-services-group/peribolos-as-a-service, for both issues and PRs](#labels-that-apply-to-open-services-groupperibolos-as-a-service-for-both-issues-and-prs)
 
 
 ## Intro
@@ -125,10 +124,3 @@ podman run --rm -v ./:/community:z \
 | <a id="area/odh-et" href="#area/odh-et">`area/odh-et`</a> | all Key Results belonging to the ODH ET endeavor <br><br> This was previously `odh-et`, | label | |
 | <a id="area/operate-first" href="#area/operate-first">`area/operate-first`</a> | all Key Results belonging to the Operate First initiative <br><br> This was previously `operate-first`, | label | |
 | <a id="area/project-thoth" href="#area/project-thoth">`area/project-thoth`</a> | all Key Results belonging to Project Thoth| label | |
-
-## Labels that apply to open-services-group/peribolos-as-a-service, for both issues and PRs
-
-| Name | Description | Added By | Prow Plugin |
-| ---- | ----------- | -------- | --- |
-| <a id="kind/promote" href="#kind/promote">`kind/promote`</a> | Automated promotion of deployment between environments| humans | |
-| <a id="kind/release" href="#kind/release">`kind/release`</a> | Automated release trigger| humans | |
