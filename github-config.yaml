@@ -60,6 +60,11 @@ orgs:
         description: Metrics project repository.
         has_projects: false
         has_wiki: false
+      scrum:
+        default_branch: main
+        description: SCRUM issues and user stories
+        has_projects: false
+        has_wiki: false
     teams:
       AIOps:
         description: ""
