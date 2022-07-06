@@ -47,8 +47,6 @@ working group within the Open Services Group community. General project governan
 
 Each one of these has a linked canonical source guideline from set up to moderation and your role and responsibilities for each. We are all responsible for enforcing our [code of conduct].
 
-- [ ] Read [moderation.md] and understand your role in keeping our community safe
-
 ### Engage
 
 ...as a chair/tech lead with other chairs/tech leads
@@ -78,9 +76,7 @@ Sometimes it might be necessary to sunset a SIG or Working Group. SIGs/WGs may a
 - [ ] Open an issue alerting the community of your intentions to disband or merge.
 - This kicks off the process for Contributor Experience’s community managers who will reach out and set an issue against `kubernetes/community` with exact next steps covered below. We can help walk through this when you get there. Most of this is covered in the same creation communication docs as above.
 - [ ] Archive the member and lead/chair mailing lists/[GoogleGroups]
-- [ ] Deactivate the zoom license
 - [ ] Delete your shared SIG/WG/UG calendar
-- [ ] Ensure that the [youtube-guidelines.md] links are removed and you've uploaded all SIG/WG/UG meetings to date
 - [ ] Move the existing SIG directory into the archive in `kubernetes/community`
 - [ ] GitHub archiving/removing/other transactions:
    - [ ] Move all appropriate github repositories to an appropriate archive or a repo outside of the Kubernetes org
@@ -104,10 +100,7 @@ Sometimes it might be necessary to sunset a SIG or Working Group. SIGs/WGs may a
 [generator doc]: /Containerfile
 [Kubernetes/Org]: https://github.com/kubernetes/org/issues/new/choose
 [GitHub management]: /github-management
-[code of conduct]: /code-of-conduct.md
-[moderation.md]: /communication/moderation.md
-[youtube-guidelines.md]: /communication/youtube/youtube-guidelines.md
-[zoom-guidelines.md]: /communication/zoom-guidelines.md
+[code of conduct]: /CODE_OF_CONDUCT.md
 [Thursday community updates]: /events/community-meeting.md
 [example]: https://docs.google.com/document/d/1qZcAvuWBznR_oEaPWtwm7U4JNT91m8r9YOUvInU-src/edit#heading=h.jsw0l2t0ra8
 [update meetings]: /communication/calendar-guidelines.md
