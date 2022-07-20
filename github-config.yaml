@@ -4,7 +4,6 @@ orgs:
       - durandom
       - goern
       - tumido
-      - Shreyanand
       - sesheta
     billing_email: goern@redhat.com
     company: "Red Hat, Inc."
@@ -36,6 +35,7 @@ orgs:
       - SamoKopecky
       - schwesig
       - shreekarSS
+      - Shreyanand
       - suppathak
       - xtuchyna
       - dmick
@@ -115,6 +115,16 @@ orgs:
         privacy: closed
         repos:
           community: admin
+      Scrum:
+        description: SCRUM masters
+        maintainers:
+          - durandom
+          - goern
+          - schwesig
+        members:
+        privacy: closed
+        repos:
+          scrum: triage
       wg-byon-build-pipelines-leads:
         description: Leads Team for BYON project
         maintainers:
