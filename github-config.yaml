@@ -19,8 +19,8 @@ orgs:
       - aakankshaduggal
       - chauhankaranraj
       - codificat
+      - dmick
       - erikerlandson
-      - fridex
       - Gkrumbach07
       - Gregory-Pereira
       - harshad16
@@ -32,14 +32,12 @@ orgs:
       - MichaelClifford
       - mimotej
       - oindrillac
-      - pacospace
       - SamoKopecky
       - schwesig
       - shreekarSS
       - suppathak
       - VannTen
       - xtuchyna
-      - dmick
     members_can_create_repositories: false
     name: Open Services Group
     repos:
@@ -119,7 +117,6 @@ orgs:
       wg-byon-build-pipelines-leads:
         description: Leads Team for BYON project
         maintainers:
-          - pacospace
           - oindrillac
         members:
         privacy: closed
