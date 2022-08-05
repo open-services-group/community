@@ -19,8 +19,8 @@ orgs:
       - aakankshaduggal
       - chauhankaranraj
       - codificat
+      - dmick
       - erikerlandson
-      - fridex
       - Gkrumbach07
       - Gregory-Pereira
       - harshad16
@@ -32,14 +32,12 @@ orgs:
       - MichaelClifford
       - mimotej
       - oindrillac
-      - pacospace
       - SamoKopecky
       - schwesig
       - shreekarSS
       - suppathak
       - VannTen
       - xtuchyna
-      - dmick
     members_can_create_repositories: false
     name: Open Services Group
     repos:
@@ -119,7 +117,6 @@ orgs:
       wg-byon-build-pipelines-leads:
         description: Leads Team for BYON project
         maintainers:
-          - pacospace
           - oindrillac
         members:
         privacy: closed
@@ -141,6 +138,29 @@ orgs:
         privacy: closed
         repos:
           devsecops: admin
+      scrum-maintainers:
+        description: The Scrum team for OSG
+        maintainers:
+        members:
+          - codificat
+          - durandom
+          - Gkrumbach07
+          - goern
+          - Gregory-Pereira
+          - harshad16
+          - HumairAK
+          - KPostOffice
+          - mayaCostantini
+          - mimotej
+          - SamoKopecky
+          - schwesig
+          - shreekarSS
+          - tumido
+          - VannTen
+          - xtuchyna
+        privacy: closed
+        repos:
+          scrum: maintain
       sp-metrics-maintainers:
         description: Maintainers Team for the Metrics sub-project
         maintainers:
